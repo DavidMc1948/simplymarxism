@@ -8,7 +8,7 @@ Vladimir Ilyich Lenin The DEVELOPMENT of CAPITALISM in RUSSIA [Chapter VIII. The
 
 The piece explains how Marxism is pro-growth and pro-technology.
 
-[Deskilling debunked](/TCMP/deskilling.html)
+[Deskilling debunked](/deskilling.html)
 
 This article refutes the popular deskilling thesis that capitalism is reducing workers to automatons, and hence incapable of removing and managing without the bourgeoisie.
 
