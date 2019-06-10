@@ -1,1 +1,62 @@
-<?xml version="1.0" encoding="utf-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"><url><loc>http://www.davidmc1948.github.io/simplymarxism</loc></url></urlset>
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>http://www.simplymarxism.com/</loc>
+  <lastmod>2019-06-08T14:22:26+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>http://www.simplymarxism.com/links.html</loc>
+  <lastmod>2019-06-08T14:22:29+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.simplymarxism.com/fiveminuteintro.pdf</loc>
+  <lastmod>2019-06-08T14:22:26+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.simplymarxism.com/AMarxistResponsetotheCEA.html</loc>
+  <lastmod>2019-06-08T14:22:26+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.simplymarxism.com/A%20Marxist%20Response%20to%20the%20CEA.pdf</loc>
+  <lastmod>2019-06-08T14:22:26+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.simplymarxism.com/GreenMarx.html</loc>
+  <lastmod>2019-06-08T14:22:29+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.simplymarxism.com/SFM.html</loc>
+  <lastmod>2019-06-08T14:22:26+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.simplymarxism.com/Some%20forgotten%20Marxism.pdf</loc>
+  <lastmod>2019-06-08T14:22:26+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.simplymarxism.com/global.html</loc>
+  <lastmod>2019-06-08T14:22:29+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://www.simplymarxism.com/deskilling.html</loc>
+  <lastmod>2019-06-08T14:22:29+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+
+
+</urlset>
