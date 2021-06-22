@@ -1,211 +1,529 @@
-{\rtf1\ansi\ansicpg1252\uc1\deff0\deflang1033\deflangfe1033{\fonttbl{\f0\froman\fcharset0\fprq2{\*\panose 02020603050405020304}Times New Roman;}{\f1\froman\fcharset238\fprq2{\*\panose 02020803070505020304}Times New Roman CE;}{\f2\froman\fcharset161\fprq2{
-\*\panose 02020803070505020304}Times New Roman Greek;}{\f3\froman\fcharset162\fprq2{\*\panose 02020803070505020304}Times New Roman Tur;}{\f4\froman\fcharset204\fprq2{\*\panose 02020803070505020304}Times New Roman Cyr;}{\f5\fdecor\fcharset0\fprq2{
-\*\panose 05050102010706020507}Symbol;}{\f6\fdecor\fcharset0\fprq2{\*\panose 05000000000000000000}Wingdings;}{\f7\fswiss\fcharset0\fprq2{\*\panose 020b0604030504040204}Tahoma;}{\f8\fswiss\fcharset238\fprq2{\*\panose 020b0804030504040204}Tahoma CE;}{\f9
-\fswiss\fcharset161\fprq2{\*\panose 020b0804030504040204}Tahoma Greek;}{\f10\fswiss\fcharset162\fprq2{\*\panose 020b0804030504040204}Tahoma Tur;}{\f11\fswiss\fcharset204\fprq2{\*\panose 020b0804030504040204}Tahoma Cyr;}{\f12\froman\fcharset0\fprq2{
-\*\panose 02050604050505020204}Bookman Old Style;}{\f13\froman\fcharset238\fprq2{\*\panose 02050804040505020204}Bookman Old Style CE;}{\f14\froman\fcharset161\fprq2{\*\panose 02050804040505020204}Bookman Old Style Greek;}{\f15\froman\fcharset162\fprq2{
-\*\panose 02050804040505020204}Bookman Old Style Tur;}{\f16\froman\fcharset204\fprq2{\*\panose 02050804040505020204}Bookman Old Style Cyr;}{\f17\fswiss\fcharset0\fprq2{\*\panose 020b0604030504040204}Verdana;}{\f18\fswiss\fcharset238\fprq2{
-\*\panose 020b0804030504040204}Verdana CE;}{\f19\fswiss\fcharset161\fprq2{\*\panose 020b0804030504040204}Verdana Greek;}{\f20\fswiss\fcharset162\fprq2{\*\panose 020b0804030504040204}Verdana Tur;}{\f21\fswiss\fcharset204\fprq2{
-\*\panose 020b0804030504040204}Verdana Cyr;}{\f22\fswiss\fcharset0\fprq2{\*\panose 020b0604020202020204}Arial;}{\f23\fswiss\fcharset238\fprq2{\*\panose 020b0704020202020204}Arial CE;}{\f24\fswiss\fcharset161\fprq2{
-\*\panose 020b0704020202020204}Arial Greek;}{\f25\fswiss\fcharset162\fprq2{\*\panose 020b0704020202020204}Arial Tur;}{\f26\fswiss\fcharset204\fprq2{\*\panose 020b0704020202020204}Arial Cyr;}{\f27\froman\fcharset0\fprq2{
-\*\panose 02020404030301010803}Garamond;}{\f28\froman\fcharset238\fprq2{\*\panose 02020804030307010803}Garamond CE;}{\f29\froman\fcharset161\fprq2{\*\panose 02020804030307010803}Garamond Greek;}{\f30\froman\fcharset162\fprq2{
-\*\panose 02020804030307010803}Garamond Tur;}{\f31\froman\fcharset204\fprq2{\*\panose 02020804030307010803}Garamond Cyr;}}{\colortbl;\red0\green0\blue0;\red0\green0\blue255;\red0\green255\blue255;\red0\green255\blue0;\red255\green0\blue255;\red255\green0
-\blue0;\red255\green255\blue0;\red255\green255\blue255;\red0\green0\blue128;\red0\green128\blue128;\red0\green128\blue0;\red128\green0\blue128;\red128\green0\blue0;\red128\green128\blue0;\red128\green128\blue128;\red192\green192\blue192;}{\stylesheet{
-\*\cs1\additive Default Paragraph Font;}{\s2\ltrch\fs20\cgrid \sbasedon0\snext2 Normal;}{\*\cs3\additive\ltrch\fs20\cgrid  Default Paragraph Font;}}{\*\listtable{\list\listtemplateid705649126\listsimple1{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0
-\levelfollow0\levelstartat1\levelspace360\levelindent0{\leveltext\'03(\'00);}{\levelnumbers\'02;}\ltrch\f12\fs19\expnd0\expndtw-1\cgrid \fi0\li0\jclisttab\tx360}\listid74709364}{\list\listtemplateid1622039627\listsimple1{\listlevel\levelnfc0\levelnfcn0
-\leveljc0\leveljcn0\levelfollow0\levelstartat3\levelspace360\levelindent0{\leveltext\'03(\'00);}{\levelnumbers\'02;}\ltrch\f12\fs19\expnd0\expndtw-1\cgrid \fi0\li72\jclisttab\tx432}\listid45839105}{\list\listtemplateid885633980\listsimple1{\listlevel
-\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat2\levelspace288\levelindent0{\leveltext\'03(\'00);}{\levelnumbers\'02;}\ltrch\f12\fs19\expnd0\expndtw2\cgrid \fi0\li72\jclisttab\tx360}\listid130727196}{\list\listtemplateid1940976634
-\listsimple1{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace288\levelindent0{\leveltext\'03(\'00);}{\levelnumbers\'02;}\ltrch\f12\fs19\cgrid \fi0\li72\jclisttab\tx360}\listid43196116}}{\*\listoverridetable{
-\listoverride\listid74709364\listoverridecount0\ls1}{\listoverride\listid45839105\listoverridecount0\ls2}{\listoverride\listid45839105\listoverridecount1{\lfolevel\listoverrideformat{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0
-\levelstartat0\levelspace288\levelindent0{\leveltext\'03(\'00);}{\levelnumbers\'02;}\ltrch\f12\fs19\expnd0\expndtw-2\cgrid \fi0\li72\jclisttab\tx360}}\ls3}{\listoverride\listid130727196\listoverridecount0\ls4}{\listoverride\listid43196116
-\listoverridecount0\ls5}}
-{\info{\version1}{\creatim\yr2021\mo5\dy20\hr16\min53}}\paperw7982\paperh11904\margl792\margr1030\margt800\margb232\deftab720\widowctrl\ftnbj\aenddoc\formshade\viewkind1\viewscale100\pgbrdrhead\pgbrdrfoot\fet0\useltbaln\jexpand\noxlattoyen\expshrtn
-\noultrlspc\dntblnsbdb\nospaceforul\horzdoc\ftnlytwnine\nolnhtadjtbl\useltbaln\alntblind\lytcalctblwd\lyttblrtgr\lnbrkrule\nobrkwrptbl\snaptogridincell\ApplyBrkRules\allowfieldendsel\asianbrkrule\newtblstyruls\nogrowautofit\sectd\stextflow0\margbsxn202
-\linex0\sectdefaultcl\pard\plain \nowidctlpar\aspalpha\aspnum\faroman\nocwrap\nooverflow\adjustright \ltrch\fs24\cgrid {{\shp{\*\shpinst\shpbxpage\shpbxignore\shpbypage\shpbyignore\shpleft792\shptop821\shpright6953\shpbottom821\shpfhdr0\shpwr2\shpwrk0
-\shpfblwtxt0\shpz1\shplid1027{\sp{\sn shapeType}{\sv 20}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn posrelh}{\sv 1}}{\sp{\sn posrelv}{\sv 1}}{\sp{\sn shapePath}{\sv 4}}{\sp{\sn fFillOK}{\sv 0}}{\sp{\sn fFilled}{\sv 0}}{\sp{\sn lineWidth}{
-\sv 8890}}{\sp{\sn fArrowheadsOK}{\sv 1}}{\sp{\sn fBehindDocument}{\sv 0}}{\sp{\sn dxWrapDistLeft}{\sv 0}}{\sp{\sn dxWrapDistTop}{\sv 0}}{\sp{\sn dxWrapDistRight}{\sv 0}}{\sp{\sn dxWrapDistBottom}{\sv 0}}{\sp{\sn lineColor}{\sv 0}}}}}\pard\plain \sb498
-\sl-351\slmult0\nowidctlpar\aspalpha\aspnum\faroman\nocwrap\nooverflow\adjustright \ltrch\f7\fs25\expnd3\expndtw17\cgrid {REFUTING 'ANTI-IMPERIALIST' MYTHS
-\par }\ri864\sb176\sl-285\slmult0\nowidctlpar\adjustright \expnd0\expndtw0\cgrid {A Review of Warren's }{\i\cgrid Imperialism, Pioneer of Capitalism.
-\par }\ri0\sb169\sl-224\slmult0\nowidctlpar\adjustright \f12\fs19\expnd2\expndtw12\i\cgrid {David McMullen
-\par }\qj\sb202\sl-221\slmult0\nowidctlpar\adjustright \expnd0\expndtw0\i0\cgrid {Bill Warren's book, }{\i\cgrid Imperialism, Pioneer of Capitalism, }{performs a useful service by refuting much of the mythology that the left has embraced in the name of 'a
-nti-imperialism'. On the other hand, he manages to create his own brand of confusion. He does this, firstly, by blaming Lenin's }{\i\cgrid Imperialism the Highest Stage of Capitalism }{for many of the left's erroneous views. And secondly, he is so busy ex
-tolling the historical mission of capitalism, that no effort is devoted to discussing how capitalism is an obstacle to human development and is becoming increasingly obsolete. Despite these shortcomings it is the myth shattering quality of the book that p
-redominates.
-\par }\ri72\sb175\nowidctlpar\adjustright {Warren begins by reminding us of the basics of a Marxist attitude to capitalism:
-\par }{\pntext\pard\plain \ltrch\f12\fs19\expnd0\expndtw-1\cgrid (a)\tab}\pard \sb169\sl-221\slmult0\nowidctlpar\jclisttab\tx360{\*\pn \pnlvlbody\ilvl0\pnf12\pnfs19\pnulnone\pnlcltr\pnstart1\pnindent0\pnhang\pnsp360{\pntxtb (}{\pntxta )}}\ls1\aspalpha
-\aspnum\faroman\nocwrap\nooverflow\adjustright \expnd0\expndtw-1\cgrid {It is an advance in all respects on earlier forms of society.
-\par }\qj\ri72\sb182\nowidctlpar\adjustright \expnd0\expndtw4\cgrid {It develops the productive forces and society generally, so creating the necessary material or objective conditions for future communist society. This development also generates the cont
-radictions which lead to capitalism's revolutionary overthrow.
-\par }\pard \qj\ri72\sb169\sl-226\slmult0\nowidctlpar\aspalpha\aspnum\faroman\nocwrap\nooverflow\adjustright \expnd0\expndtw0\cgrid {The following passage from the }{\i\cgrid Communist Manifesto }{that Warren quotes (Warren 1980, p 11) says it all.
-\par }\li360\sb172\sa374\sl-211\slmult0\nowidctlpar\adjustright \expnd-1\expndtw-6\cgrid {The bourgeoisie cannot exist without constantly revolutionizing the instruments of production, and thereby the relations of production, and with them the whole relat
+{\rtf1\adeflang1025\ansi\ansicpg1252\uc1\adeff0\deff0\stshfdbch31505\stshfloch31506\stshfhich31506\stshfbi31507\deflang1033\deflangfe1033\themelang1033\themelangfe0\themelangcs0{\fonttbl{\f0\fbidi \froman\fcharset0\fprq2{\*\panose 00000000000000000000}Times New Roman;}{\f1\fbidi \fswiss\fcharset0\fprq2{\*\panose 00000000000000000000}Arial;}
+{\f34\fbidi \froman\fcharset0\fprq2{\*\panose 02040503050406030204}Cambria Math;}{\f40\fbidi \fswiss\fcharset0\fprq2{\*\panose 020b0604030504040204}Verdana;}{\f42\fbidi \froman\fcharset0\fprq2{\*\panose 00000000000000000000}Garamond;}
+{\f44\fbidi \fswiss\fcharset0\fprq2{\*\panose 00000000000000000000}Tahoma;}{\f45\fbidi \froman\fcharset0\fprq2{\*\panose 00000000000000000000}Bookman Old Style;}
+{\flomajor\f31500\fbidi \froman\fcharset0\fprq2{\*\panose 00000000000000000000}Times New Roman;}{\fdbmajor\f31501\fbidi \froman\fcharset0\fprq2{\*\panose 00000000000000000000}Times New Roman;}
+{\fhimajor\f31502\fbidi \fswiss\fcharset0\fprq2{\*\panose 00000000000000000000}Calibri Light;}{\fbimajor\f31503\fbidi \froman\fcharset0\fprq2{\*\panose 00000000000000000000}Times New Roman;}
+{\flominor\f31504\fbidi \froman\fcharset0\fprq2{\*\panose 00000000000000000000}Times New Roman;}{\fdbminor\f31505\fbidi \froman\fcharset0\fprq2{\*\panose 00000000000000000000}Times New Roman;}
+{\fhiminor\f31506\fbidi \fswiss\fcharset0\fprq2{\*\panose 00000000000000000000}Calibri;}{\fbiminor\f31507\fbidi \froman\fcharset0\fprq2{\*\panose 00000000000000000000}Times New Roman;}{\f50\fbidi \froman\fcharset238\fprq2 Times New Roman CE;}
+{\f51\fbidi \froman\fcharset204\fprq2 Times New Roman Cyr;}{\f53\fbidi \froman\fcharset161\fprq2 Times New Roman Greek;}{\f54\fbidi \froman\fcharset162\fprq2 Times New Roman Tur;}{\f55\fbidi \froman\fcharset177\fprq2 Times New Roman (Hebrew);}
+{\f56\fbidi \froman\fcharset178\fprq2 Times New Roman (Arabic);}{\f57\fbidi \froman\fcharset186\fprq2 Times New Roman Baltic;}{\f58\fbidi \froman\fcharset163\fprq2 Times New Roman (Vietnamese);}{\f60\fbidi \fswiss\fcharset238\fprq2 Arial CE;}
+{\f61\fbidi \fswiss\fcharset204\fprq2 Arial Cyr;}{\f63\fbidi \fswiss\fcharset161\fprq2 Arial Greek;}{\f64\fbidi \fswiss\fcharset162\fprq2 Arial Tur;}{\f65\fbidi \fswiss\fcharset177\fprq2 Arial (Hebrew);}
+{\f66\fbidi \fswiss\fcharset178\fprq2 Arial (Arabic);}{\f67\fbidi \fswiss\fcharset186\fprq2 Arial Baltic;}{\f68\fbidi \fswiss\fcharset163\fprq2 Arial (Vietnamese);}{\f450\fbidi \fswiss\fcharset238\fprq2 Verdana CE;}
+{\f451\fbidi \fswiss\fcharset204\fprq2 Verdana Cyr;}{\f453\fbidi \fswiss\fcharset161\fprq2 Verdana Greek;}{\f454\fbidi \fswiss\fcharset162\fprq2 Verdana Tur;}{\f457\fbidi \fswiss\fcharset186\fprq2 Verdana Baltic;}
+{\f458\fbidi \fswiss\fcharset163\fprq2 Verdana (Vietnamese);}{\f470\fbidi \froman\fcharset238\fprq2 Garamond CE;}{\f471\fbidi \froman\fcharset204\fprq2 Garamond Cyr;}{\f473\fbidi \froman\fcharset161\fprq2 Garamond Greek;}
+{\f474\fbidi \froman\fcharset162\fprq2 Garamond Tur;}{\f477\fbidi \froman\fcharset186\fprq2 Garamond Baltic;}{\f490\fbidi \fswiss\fcharset238\fprq2 Tahoma CE;}{\f491\fbidi \fswiss\fcharset204\fprq2 Tahoma Cyr;}
+{\f493\fbidi \fswiss\fcharset161\fprq2 Tahoma Greek;}{\f494\fbidi \fswiss\fcharset162\fprq2 Tahoma Tur;}{\f495\fbidi \fswiss\fcharset177\fprq2 Tahoma (Hebrew);}{\f496\fbidi \fswiss\fcharset178\fprq2 Tahoma (Arabic);}
+{\f497\fbidi \fswiss\fcharset186\fprq2 Tahoma Baltic;}{\f498\fbidi \fswiss\fcharset163\fprq2 Tahoma (Vietnamese);}{\f499\fbidi \fswiss\fcharset222\fprq2 Tahoma (Thai);}{\f500\fbidi \froman\fcharset238\fprq2 Bookman Old Style CE;}
+{\f501\fbidi \froman\fcharset204\fprq2 Bookman Old Style Cyr;}{\f503\fbidi \froman\fcharset161\fprq2 Bookman Old Style Greek;}{\f504\fbidi \froman\fcharset162\fprq2 Bookman Old Style Tur;}{\f507\fbidi \froman\fcharset186\fprq2 Bookman Old Style Baltic;}
+{\flomajor\f31508\fbidi \froman\fcharset238\fprq2 Times New Roman CE;}{\flomajor\f31509\fbidi \froman\fcharset204\fprq2 Times New Roman Cyr;}{\flomajor\f31511\fbidi \froman\fcharset161\fprq2 Times New Roman Greek;}
+{\flomajor\f31512\fbidi \froman\fcharset162\fprq2 Times New Roman Tur;}{\flomajor\f31513\fbidi \froman\fcharset177\fprq2 Times New Roman (Hebrew);}{\flomajor\f31514\fbidi \froman\fcharset178\fprq2 Times New Roman (Arabic);}
+{\flomajor\f31515\fbidi \froman\fcharset186\fprq2 Times New Roman Baltic;}{\flomajor\f31516\fbidi \froman\fcharset163\fprq2 Times New Roman (Vietnamese);}{\fdbmajor\f31518\fbidi \froman\fcharset238\fprq2 Times New Roman CE;}
+{\fdbmajor\f31519\fbidi \froman\fcharset204\fprq2 Times New Roman Cyr;}{\fdbmajor\f31521\fbidi \froman\fcharset161\fprq2 Times New Roman Greek;}{\fdbmajor\f31522\fbidi \froman\fcharset162\fprq2 Times New Roman Tur;}
+{\fdbmajor\f31523\fbidi \froman\fcharset177\fprq2 Times New Roman (Hebrew);}{\fdbmajor\f31524\fbidi \froman\fcharset178\fprq2 Times New Roman (Arabic);}{\fdbmajor\f31525\fbidi \froman\fcharset186\fprq2 Times New Roman Baltic;}
+{\fdbmajor\f31526\fbidi \froman\fcharset163\fprq2 Times New Roman (Vietnamese);}{\fhimajor\f31528\fbidi \fswiss\fcharset238\fprq2 Calibri Light CE;}{\fhimajor\f31529\fbidi \fswiss\fcharset204\fprq2 Calibri Light Cyr;}
+{\fhimajor\f31531\fbidi \fswiss\fcharset161\fprq2 Calibri Light Greek;}{\fhimajor\f31532\fbidi \fswiss\fcharset162\fprq2 Calibri Light Tur;}{\fhimajor\f31533\fbidi \fswiss\fcharset177\fprq2 Calibri Light (Hebrew);}
+{\fhimajor\f31534\fbidi \fswiss\fcharset178\fprq2 Calibri Light (Arabic);}{\fhimajor\f31535\fbidi \fswiss\fcharset186\fprq2 Calibri Light Baltic;}{\fhimajor\f31536\fbidi \fswiss\fcharset163\fprq2 Calibri Light (Vietnamese);}
+{\fbimajor\f31538\fbidi \froman\fcharset238\fprq2 Times New Roman CE;}{\fbimajor\f31539\fbidi \froman\fcharset204\fprq2 Times New Roman Cyr;}{\fbimajor\f31541\fbidi \froman\fcharset161\fprq2 Times New Roman Greek;}
+{\fbimajor\f31542\fbidi \froman\fcharset162\fprq2 Times New Roman Tur;}{\fbimajor\f31543\fbidi \froman\fcharset177\fprq2 Times New Roman (Hebrew);}{\fbimajor\f31544\fbidi \froman\fcharset178\fprq2 Times New Roman (Arabic);}
+{\fbimajor\f31545\fbidi \froman\fcharset186\fprq2 Times New Roman Baltic;}{\fbimajor\f31546\fbidi \froman\fcharset163\fprq2 Times New Roman (Vietnamese);}{\flominor\f31548\fbidi \froman\fcharset238\fprq2 Times New Roman CE;}
+{\flominor\f31549\fbidi \froman\fcharset204\fprq2 Times New Roman Cyr;}{\flominor\f31551\fbidi \froman\fcharset161\fprq2 Times New Roman Greek;}{\flominor\f31552\fbidi \froman\fcharset162\fprq2 Times New Roman Tur;}
+{\flominor\f31553\fbidi \froman\fcharset177\fprq2 Times New Roman (Hebrew);}{\flominor\f31554\fbidi \froman\fcharset178\fprq2 Times New Roman (Arabic);}{\flominor\f31555\fbidi \froman\fcharset186\fprq2 Times New Roman Baltic;}
+{\flominor\f31556\fbidi \froman\fcharset163\fprq2 Times New Roman (Vietnamese);}{\fdbminor\f31558\fbidi \froman\fcharset238\fprq2 Times New Roman CE;}{\fdbminor\f31559\fbidi \froman\fcharset204\fprq2 Times New Roman Cyr;}
+{\fdbminor\f31561\fbidi \froman\fcharset161\fprq2 Times New Roman Greek;}{\fdbminor\f31562\fbidi \froman\fcharset162\fprq2 Times New Roman Tur;}{\fdbminor\f31563\fbidi \froman\fcharset177\fprq2 Times New Roman (Hebrew);}
+{\fdbminor\f31564\fbidi \froman\fcharset178\fprq2 Times New Roman (Arabic);}{\fdbminor\f31565\fbidi \froman\fcharset186\fprq2 Times New Roman Baltic;}{\fdbminor\f31566\fbidi \froman\fcharset163\fprq2 Times New Roman (Vietnamese);}
+{\fhiminor\f31568\fbidi \fswiss\fcharset238\fprq2 Calibri CE;}{\fhiminor\f31569\fbidi \fswiss\fcharset204\fprq2 Calibri Cyr;}{\fhiminor\f31571\fbidi \fswiss\fcharset161\fprq2 Calibri Greek;}{\fhiminor\f31572\fbidi \fswiss\fcharset162\fprq2 Calibri Tur;}
+{\fhiminor\f31573\fbidi \fswiss\fcharset177\fprq2 Calibri (Hebrew);}{\fhiminor\f31574\fbidi \fswiss\fcharset178\fprq2 Calibri (Arabic);}{\fhiminor\f31575\fbidi \fswiss\fcharset186\fprq2 Calibri Baltic;}
+{\fhiminor\f31576\fbidi \fswiss\fcharset163\fprq2 Calibri (Vietnamese);}{\fbiminor\f31578\fbidi \froman\fcharset238\fprq2 Times New Roman CE;}{\fbiminor\f31579\fbidi \froman\fcharset204\fprq2 Times New Roman Cyr;}
+{\fbiminor\f31581\fbidi \froman\fcharset161\fprq2 Times New Roman Greek;}{\fbiminor\f31582\fbidi \froman\fcharset162\fprq2 Times New Roman Tur;}{\fbiminor\f31583\fbidi \froman\fcharset177\fprq2 Times New Roman (Hebrew);}
+{\fbiminor\f31584\fbidi \froman\fcharset178\fprq2 Times New Roman (Arabic);}{\fbiminor\f31585\fbidi \froman\fcharset186\fprq2 Times New Roman Baltic;}{\fbiminor\f31586\fbidi \froman\fcharset163\fprq2 Times New Roman (Vietnamese);}}
+{\colortbl;\red0\green0\blue0;\red0\green0\blue255;\red0\green255\blue255;\red0\green255\blue0;\red255\green0\blue255;\red255\green0\blue0;\red255\green255\blue0;\red255\green255\blue255;\red0\green0\blue128;\red0\green128\blue128;\red0\green128\blue0;
+\red128\green0\blue128;\red128\green0\blue0;\red128\green128\blue0;\red128\green128\blue128;\red192\green192\blue192;\red0\green0\blue0;\red0\green0\blue0;}{\*\defchp \fs22\loch\af31506\hich\af31506\dbch\af31505 }{\*\defpap 
+\ql \li0\ri0\sa160\sl259\slmult1\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 }\noqfpromote {\stylesheet{\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0 \rtlch\fcs1 \af0\afs24\alang1025 \ltrch\fcs0 
+\fs20\lang1033\langfe1033\loch\f0\hich\af0\dbch\af31505\cgrid\langnp1033\langfenp1033 \snext0 \sqformat Normal;}{\*\cs10 \additive Default Paragraph Font;}{\*
+\ts11\tsrowd\trftsWidthB3\trpaddl108\trpaddr108\trpaddfl3\trpaddft3\trpaddfb3\trpaddfr3\trcbpat1\trcfpat1\tblind0\tblindtype3\tsvertalt\tsbrdrt\tsbrdrl\tsbrdrb\tsbrdrr\tsbrdrdgl\tsbrdrdgr\tsbrdrh\tsbrdrv \ql \li0\ri0\sa160\sl259\slmult1
+\widctlpar\wrapdefault\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \rtlch\fcs1 \af31507\afs22\alang1025 \ltrch\fcs0 \fs22\lang1033\langfe1033\loch\f31506\hich\af31506\dbch\af31505\cgrid\langnp1033\langfenp1033 \snext11 \ssemihidden \sunhideused 
+Normal Table;}{\s15\ql \li0\ri0\nowidctlpar\tqc\tx4680\tqr\tx9360\wrapdefault\faauto\rin0\lin0\itap0 \rtlch\fcs1 \af0\afs24\alang1025 \ltrch\fcs0 \fs20\lang1033\langfe1033\loch\f0\hich\af0\dbch\af31505\cgrid\langnp1033\langfenp1033 
+\sbasedon0 \snext15 \slink16 \sunhideused \styrsid7020869 header;}{\*\cs16 \additive \rtlch\fcs1 \af0\afs24 \ltrch\fcs0 \f0\fs24 \sbasedon10 \slink15 \slocked \styrsid7020869 Header Char;}{\s17\ql \li0\ri0\nowidctlpar
+\tqc\tx4680\tqr\tx9360\wrapdefault\faauto\rin0\lin0\itap0 \rtlch\fcs1 \af0\afs24\alang1025 \ltrch\fcs0 \fs20\lang1033\langfe1033\loch\f0\hich\af0\dbch\af31505\cgrid\langnp1033\langfenp1033 \sbasedon0 \snext17 \slink18 \sunhideused \styrsid7020869 footer;}
+{\*\cs18 \additive \rtlch\fcs1 \af0\afs24 \ltrch\fcs0 \f0\fs24 \sbasedon10 \slink17 \slocked \styrsid7020869 Footer Char;}}{\*\listtable{\list\listtemplateid1940976634\listsimple{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0
+\levelstartat1\levelspace288\levelindent0{\leveltext\'03(\'00);}{\levelnumbers\'02;}\rtlch\fcs1 \af0 \ltrch\fcs0 \f45\fs19\cgrid \li72\jclisttab\tx360\lin72 }{\listname ;}\listid43196116}{\list\listtemplateid1622039627\listsimple{\listlevel\levelnfc0
+\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat3\levelspace360\levelindent0{\leveltext\'03(\'00);}{\levelnumbers\'02;}\rtlch\fcs1 \af0 \ltrch\fcs0 \f45\fs19\expnd0\expndtw-1\cgrid \li72\jclisttab\tx432\lin72 }{\listname ;}\listid45839105}
+{\list\listtemplateid705649126\listsimple{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\leveltext\'03(\'00);}{\levelnumbers\'02;}\rtlch\fcs1 \af0 \ltrch\fcs0 \f45\fs19\expnd0\expndtw-1\cgrid 
+\jclisttab\tx360 }{\listname ;}\listid74709364}{\list\listtemplateid885633980\listsimple{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat2\levelspace288\levelindent0{\leveltext\'03(\'00);}{\levelnumbers\'02;}\rtlch\fcs1 \af0 
+\ltrch\fcs0 \f45\fs19\expnd0\expndtw2\cgrid \li72\jclisttab\tx360\lin72 }{\listname ;}\listid130727196}}{\*\listoverridetable{\listoverride\listid74709364\listoverridecount0\ls1}{\listoverride\listid45839105\listoverridecount0\ls2}
+{\listoverride\listid45839105\listoverridecount1{\lfolevel\listoverrideformat{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat0\levelspace288\levelindent0{\leveltext\'03(\'00);}{\levelnumbers\'02;}\rtlch\fcs1 \af0 \ltrch\fcs0 
+\f45\fs19\expnd0\expndtw-2\cgrid \li72\jclisttab\tx360\lin72 }}\ls3}{\listoverride\listid130727196\listoverridecount0\ls4}{\listoverride\listid43196116\listoverridecount0\ls5}}{\*\rsidtbl \rsid1904712\rsid7020869\rsid7098831\rsid9127190}{\mmathPr
+\mmathFont34\mbrkBin0\mbrkBinSub0\msmallFrac0\mdispDef1\mlMargin0\mrMargin0\mdefJc1\mwrapIndent1440\mintLim0\mnaryLim1}{\info{\operator David McMullen}{\creatim\yr2021\mo5\dy20\hr16\min53}{\revtim\yr2021\mo5\dy21\hr23\min50}
+{\printim\yr2021\mo5\dy21\hr17\min54}{\version3}{\edmins362}{\nofpages9}{\nofwords2779}{\nofchars15845}{\nofcharsws18587}{\vern23}}{\*\xmlnstbl {\xmlns1 http://schemas.microsoft.com/office/word/2003/wordml}}
+\paperw7982\paperh11904\margl792\margr1030\margt800\margb202\gutter0\ltrsect 
+\widowctrl\ftnbj\aenddoc\trackmoves0\trackformatting1\donotembedsysfont0\relyonvml0\donotembedlingdata1\grfdocevents0\validatexml0\showplaceholdtext0\ignoremixedcontent0\saveinvalidxml0\showxmlerrors0\noxlattoyen
+\expshrtn\noultrlspc\dntblnsbdb\nospaceforul\formshade\horzdoc\dghspace120\dgvspace120\dghorigin1701\dgvorigin1984\dghshow0\dgvshow3
+\jexpand\viewkind1\viewscale160\pgbrdrhead\pgbrdrfoot\ftnlytwnine\nolnhtadjtbl\useltbaln\alntblind\lytcalctblwd\lyttblrtgr\lnbrkrule\nobrkwrptbl\snaptogridincell\allowfieldendsel\ApplyBrkRules\asianbrkrule\rsidroot9127190\newtblstyruls\nogrowautofit \fet0
+{\*\wgrffmtfilter 2450}\ilfomacatclnup0{\*\ftnsep \ltrpar \pard\plain \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0\pararsid7020869 \rtlch\fcs1 \af0\afs24\alang1025 \ltrch\fcs0 
+\fs20\lang1033\langfe1033\loch\af0\hich\af0\dbch\af31505\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid7098831 \chftnsep 
+\par }}{\*\ftnsepc \ltrpar \pard\plain \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0\pararsid7020869 \rtlch\fcs1 \af0\afs24\alang1025 \ltrch\fcs0 \fs20\lang1033\langfe1033\loch\af0\hich\af0\dbch\af31505\cgrid\langnp1033\langfenp1033 {
+\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid7098831 \chftnsepc 
+\par }}{\*\aftnsep \ltrpar \pard\plain \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0\pararsid7020869 \rtlch\fcs1 \af0\afs24\alang1025 \ltrch\fcs0 \fs20\lang1033\langfe1033\loch\af0\hich\af0\dbch\af31505\cgrid\langnp1033\langfenp1033 {
+\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid7098831 \chftnsep 
+\par }}{\*\aftnsepc \ltrpar \pard\plain \ltrpar\ql \li0\ri0\nowidctlpar\wrapdefault\faauto\rin0\lin0\itap0\pararsid7020869 \rtlch\fcs1 \af0\afs24\alang1025 \ltrch\fcs0 \fs20\lang1033\langfe1033\loch\af0\hich\af0\dbch\af31505\cgrid\langnp1033\langfenp1033 {
+\rtlch\fcs1 \af0 \ltrch\fcs0 \insrsid7098831 \chftnsepc 
+\par }}\ltrpar \sectd \ltrsect\linex0\sectdefaultcl\sftnbj {\headerr \ltrpar \pard\plain \ltrpar\s15\ql \li0\ri0\nowidctlpar\tqc\tx4680\tqr\tx9360\wrapdefault\faauto\rin0\lin0\itap0 \rtlch\fcs1 \af0\afs24\alang1025 \ltrch\fcs0 
+\fs20\lang1033\langfe1033\loch\af0\hich\af0\dbch\af31505\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 \af0 \ltrch\fcs0 \lang3081\langfe1033\langnp3081\insrsid7020869 \hich\af0\dbch\af31505\loch\f0  \hich\af0\dbch\af31505\loch\f0                   }{
+\rtlch\fcs1 \af0 \ltrch\fcs0 \lang3081\langfe1033\langnp3081\insrsid7020869\charrsid7020869 
+\par }}{\*\pnseclvl1\pnucrm\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl2\pnucltr\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl3\pndec\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl4\pnlcltr\pnstart1\pnindent720\pnhang {\pntxta )}}
+{\*\pnseclvl5\pndec\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl6\pnlcltr\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl7\pnlcrm\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl8
+\pnlcltr\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl9\pnlcrm\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}\pard\plain \ltrpar\ql \li0\ri0\sb498\sl-351\slmult0
+\nowidctlpar\wrapdefault\nocwrap\nooverflow\aspalpha\aspnum\faroman\adjustright\rin0\lin0\itap0 \rtlch\fcs1 \af0\afs24\alang1025 \ltrch\fcs0 \fs20\lang1033\langfe1033\loch\af0\hich\af0\dbch\af31505\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 \af0 
+\ltrch\fcs0 \lang1024\langfe1024\noproof\insrsid7098831 {\shp{\*\shpinst\shpleft792\shptop821\shpright6953\shpbottom821\shpfhdr0\shpbxpage\shpbxignore\shpbypage\shpbyignore\shpwr2\shpwrk0\shpfblwtxt0\shpz0\shplid1026
+{\sp{\sn shapeType}{\sv 20}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn shapePath}{\sv 4}}{\sp{\sn fFillOK}{\sv 0}}{\sp{\sn fFilled}{\sv 0}}{\sp{\sn lineWidth}{\sv 8890}}{\sp{\sn fArrowheadsOK}{\sv 1}}{\sp{\sn dxWrapDistLeft}{\sv 0}}
+{\sp{\sn dxWrapDistRight}{\sv 0}}{\sp{\sn posrelh}{\sv 1}}{\sp{\sn posrelv}{\sv 1}}{\sp{\sn dhgt}{\sv 251658240}}{\sp{\sn fLayoutInCell}{\sv 0}}{\sp{\sn fBehindDocument}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 0}}}{\shprslt{\*\do\dobxpage\dobypage\dodhgt8192
+\dpline\dpptx0\dppty0\dpptx6161\dppty0\dpx792\dpy821\dpxsize6161\dpysize0\dplinew14\dplinecor0\dplinecog0\dplinecob0}}}}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f44\fs25\expnd3\expndtw17\insrsid7098831 \hich\af44\dbch\af31505\loch\f44 
+REFUTING 'ANTI-IMPERIALIST' MYTHS
+\par }\pard \ltrpar\ql \li0\ri864\sb176\sl-285\slmult0\nowidctlpar\wrapdefault\nocwrap\nooverflow\aspalpha\aspnum\faroman\adjustright\rin864\lin0\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f44\fs25\insrsid7098831 \hich\af44\dbch\af31505\loch\f44 
+A Review of Warren's }{\rtlch\fcs1 \af0 \ltrch\fcs0 \i\f44\fs25\insrsid7098831 \hich\af44\dbch\af31505\loch\f44 Imperialism, Pioneer of Capitalism.
+\par }\pard \ltrpar\ql \li0\ri0\sb169\sl-224\slmult0\nowidctlpar\wrapdefault\nocwrap\nooverflow\aspalpha\aspnum\faroman\adjustright\rin0\lin0\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \i\f45\fs19\expnd2\expndtw12\insrsid7098831 \hich\af45\dbch\af31505\loch\f45 
+David McMullen
+\par }\pard \ltrpar\qj \li0\ri0\sb202\sl-221\slmult0\nowidctlpar\wrapdefault\nocwrap\nooverflow\aspalpha\aspnum\faroman\adjustright\rin0\lin0\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f45\fs19\insrsid7098831 \hich\af45\dbch\af31505\loch\f45 Bill Warren's book, }{
+\rtlch\fcs1 \af0 \ltrch\fcs0 \i\f45\fs19\insrsid7098831 \hich\af45\dbch\af31505\loch\f45 Imperialism, Pioneer of Capitalism, }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f45\fs19\insrsid7098831 \hich\af45\dbch\af31505\loch\f45 
+performs a useful service by refuting much of the mythology that the left has embraced in the name of 'anti-imperialism'. On the other hand, he manages to create his own brand of confusion. He does this, firstly, by blaming Lenin's }{\rtlch\fcs1 \af0 
+\ltrch\fcs0 \i\f45\fs19\insrsid7098831 \hich\af45\dbch\af31505\loch\f45 Imperialism the Highest \hich\af45\dbch\af31505\loch\f45 Stage of Capitalism }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f45\fs19\insrsid7098831 \hich\af45\dbch\af31505\loch\f45 
+for many of the left's erroneous views. And secondly, he is so busy extolling the historical mission of capitalism, that no effort is devoted to discussing how capitalism is an obstacle to human development and is becoming increasingly 
+\hich\af45\dbch\af31505\loch\f45 obsolete. Despite these shortcomings it is the myth shattering quality of the book that predominates.
+\par }\pard \ltrpar\qj \li0\ri72\sb175\sl-221\slmult0\nowidctlpar\wrapdefault\nocwrap\nooverflow\aspalpha\aspnum\faroman\adjustright\rin72\lin0\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f45\fs19\insrsid7098831 \hich\af45\dbch\af31505\loch\f45 
+Warren begins by reminding us of the basics of a Marxist attitude to capitalism:
+\par {\pntext\pard\plain\ltrpar \rtlch\fcs1 \af0 \ltrch\fcs0 \f45\fs19\expnd0\expndtw-1 \hich\af45\dbch\af31505\loch\f45 (a)\tab}}\pard \ltrpar\ql \li0\ri0\sb169\sl-221\slmult0\nowidctlpar\jclisttab\tx360\wrapdefault{\*\pn \pnlvlbody\ilvl0\ls1\pnrnot0
+\pnlcltr\pnf45\pnfs19\pnstart1\pnindent360\pnsp120 {\pntxtb (}{\pntxta )}}\nocwrap\nooverflow\aspalpha\aspnum\faroman\ls1\adjustright\rin0\lin0\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f45\fs19\expnd0\expndtw-1\insrsid7098831 \hich\af45\dbch\af31505\loch\f45 
+It is an advance in all respects on earlier forms of society.
+\par {\pntext\pard\plain\ltrpar \rtlch\fcs1 \af0 \ltrch\fcs0 \f45\fs19\expnd0\expndtw-1 \hich\af45\dbch\af31505\loch\f45 (b)\tab}}\pard \ltrpar\qj \li0\ri72\sb182\sl-221\slmult0\nowidctlpar\jclisttab\tx360\wrapdefault{\*\pn \pnlvlbody\ilvl0\ls1\pnrnot0
+\pnlcltr\pnf45\pnfs19\pnstart1\pnindent360\pnsp120 {\pntxtb (}{\pntxta )}}\nocwrap\nooverflow\aspalpha\aspnum\faroman\ls1\adjustright\rin72\lin0\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f45\fs19\expnd0\expndtw4\insrsid7098831 \hich\af45\dbch\af31505\loch\f45 
+It de\hich\af45\dbch\af31505\loch\f45 
+velops the productive forces and society generally, so creating the necessary material or objective conditions for future communist society. This development also generates the contradictions which lead to capitalism's revolutionary overthrow.
+\par }\pard \ltrpar\qj \li0\ri72\sb169\sl-226\slmult0\nowidctlpar\wrapdefault\nocwrap\nooverflow\aspalpha\aspnum\faroman\adjustright\rin72\lin0\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f45\fs19\insrsid7098831 \hich\af45\dbch\af31505\loch\f45 The followin
+\hich\af45\dbch\af31505\loch\f45 g passage from the }{\rtlch\fcs1 \af0 \ltrch\fcs0 \i\f45\fs19\insrsid7098831 \hich\af45\dbch\af31505\loch\f45 Communist Manifesto }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f45\fs19\insrsid7098831 \hich\af45\dbch\af31505\loch\f45 
+that Warren quotes (Warren 1980, p 11) says it all.
+\par }\pard \ltrpar\qj \li360\ri72\sb172\sa374\sl-211\slmult0\nowidctlpar\wrapdefault\nocwrap\nooverflow\aspalpha\aspnum\faroman\adjustright\rin72\lin360\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f45\fs19\expnd-1\expndtw-6\insrsid7098831 
+\hich\af45\dbch\af31505\loch\f45 The bourgeoisie cannot exist without constantly revolutionizing the instruments of production, and thereby the relations of production, and with them the whole relat\hich\af45\dbch\af31505\loch\f45 
 ions of society. Conservation of the old modes of production in unaltered form, was, on the contrary, the first condition of existence for all earlier industrial classes. Constant revolutionizing of production, uninterrupted disturbance of all social cond
-itions, everlasting uncertainty and agitation distinguish the bourgeois epoch from all earlier ones. All fixed, fact-frozen relations, with their train of ancient and venerable prejudices and opinions, are swept away, all new-formed ones becomes antiquate
-d before they can ossify.
-\par }\pard\plain\sect\sectd\stextflow0\marglsxn664\margrsxn6958\margbsxn202\sbknone\linex0\sectdefaultcl\pard\plain \sl-215\slmult0\nowidctlpar\aspalpha\aspnum\faroman\nocwrap\nooverflow\adjustright \ltrch\f12\fs19\expnd0\expndtw4\cgrid {20
-\par }\pard\plain\sect\sectd\pgwsxn7963\pghsxn11923\stextflow0\marglsxn1141\margrsxn618\margtsxn660\margbsxn161\linex0\sectdefaultcl\pard\plain \qr\ri72\sb7\sl-225\slmult0\nowidctlpar\aspalpha\aspnum\faroman\nocwrap\nooverflow\adjustright \ltrch\f17\fs16
-\expnd0\expndtw-2\cgrid {Refuting 'Anti-Imperialist' Myths
-\par }\pard\plain \nowidctlpar\aspalpha\aspnum\faroman\nocwrap\nooverflow\adjustright \ltrch\fs24\cgrid {{\shp{\*\shpinst\shpbxpage\shpbxignore\shpbypage\shpbyignore\shpleft1141\shptop912\shpright7346\shpbottom912\shpfhdr0\shpwr2\shpwrk0\shpfblwtxt0\shpz2
-\shplid1028{\sp{\sn shapeType}{\sv 20}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn posrelh}{\sv 1}}{\sp{\sn posrelv}{\sv 1}}{\sp{\sn shapePath}{\sv 4}}{\sp{\sn fFillOK}{\sv 0}}{\sp{\sn fFilled}{\sv 0}}{\sp{\sn lineWidth}{\sv 12065}}{\sp{
-\sn fArrowheadsOK}{\sv 1}}{\sp{\sn fBehindDocument}{\sv 0}}{\sp{\sn dxWrapDistLeft}{\sv 0}}{\sp{\sn dxWrapDistTop}{\sv 0}}{\sp{\sn dxWrapDistRight}{\sv 0}}{\sp{\sn dxWrapDistBottom}{\sv 0}}{\sp{\sn lineColor}{\sv 0}}}}}\pard\plain \li432\ri72\sb327\sl-211
-\slmult0\nowidctlpar\aspalpha\aspnum\faroman\nocwrap\nooverflow\adjustright \ltrch\f12\fs19\expnd-1\expndtw-8\cgrid {All that is solid melts into air, all that is holy is profaned, and man is at last compelled to face with sober senses his real condition 
-of life, and his relations with his kind. (Marx and Engels, 1968, pp 34-5. )
-\par }\li72\sb165\sl-227\slmult0\nowidctlpar\adjustright \expnd0\expndtw0\cgrid {This approach to capitalism is at total variance to that prevailing in the 'left'. The usual practice is to bemoan the development of capitalist productive relations and prod
-uctive forces, and to cherish the things that capitalism is destroying. A few examples might clarify this point.
-\par }\qj\fi72\li0\sl-225\slmult0\nowidctlpar\adjustright {(1) Increased economic concentration and the destruction of the petty bourgeoisie. A classic case of the left's response is its bemoaning such things as agribusiness, supermarkets and fastfood cha
-ins.
-\par }\fi0\sb162\sl-226\slmult0\nowidctlpar\adjustright {,(2) The increasing internationalisation of capital and the division of labor, which increases human intercourse on a world scale and lays the basis for a global society. This is denounced for destr
-oying our 'independence' and national 'heritage' and placing us at the mercy of the 'multinationals'. -
-\par }{\pntext\pard\plain \ltrch\f12\fs19\expnd0\expndtw-1\cgrid (3)\tab}\pard \qj\li72\ri72\sb166\sl-224\slmult0\nowidctlpar\jclisttab\tx432{\*\pn \pnlvlbody\ilvl0\pnf12\pnfs19\pnulnone\pndec\pnstart3\pnindent0\pnhang\pnsp360{\pntxtb (}{\pntxta )}}\ls2
-\aspalpha\aspnum\faroman\nocwrap\nooverflow\adjustright \expnd0\expndtw-1\cgrid {The destruction of cherished skills by new technologies (cherished, that is, by trendy left sociologists). To a Marxist, technological development is eliminating the technica
-l division of labor which is the material basis of class society. In other words we are moving to a situation where you will have an educated and versatile workforce, on the one hand, and on the other hand, processes of production in which all types of ac
-tivities can be performed equally by all members of the workforce.
-\par }{\pntext\pard\plain \ltrch\f12\fs19\expnd0\expndtw-2\cgrid (4)\tab}\pard \qj\li72\ri72\sb174\sl-225\slmult0\nowidctlpar\jclisttab\tx360{\*\pn \pnlvlbody\ilvl0\pnf12\pnfs19\pnulnone\pndec\pnstart4\pnindent0\pnhang\pnsp288{\pntxtb (}{\pntxta )}}\ls3
-\aspalpha\aspnum\faroman\nocwrap\nooverflow\adjustright \expnd0\expndtw-2\cgrid {The erosion of traditional culture and social bonds. Traditional life tends to be romanticized, compared with soulless modern living. We have 'lost' something. On the other h
-and, to a Marxist the neuroses and instability of modern life are infinitely superior to the narrow mindless certainty and security of days gone by.
-\par }\pard \qj\ri72\sb167\sl-225\slmult0\nowidctlpar\aspalpha\aspnum\faroman\nocwrap\nooverflow\adjustright \expnd0\expndtw0\cgrid {So given that capitalism is a social advance and creates the conditions for social revolution, how are we to view European
- colonial expansion into pre-capitalist societies?
-\par }\sb169\sl-227\slmult0\nowidctlpar\adjustright {Warren cites, by way of example, Marx's recognition of the historically progressive role of Britain's penetration of India.
-\par }\ql\li360\sb164\sl-214\slmult0\nowidctlpar\adjustright \expnd-1\expndtw-8\cgrid {England, it is true, in causing a social revolution in Hindoostan, was actuated by the vilest interests, and was stupid in her manner
-\par }\qr\li0\sb254\sl-228\slmult0\nowidctlpar\adjustright \expnd3\expndtw18\cgrid {21
-\par }\pard\plain\sect\sectd\stextflow0\marglsxn628\margrsxn1150\margtsxn660\margbsxn182\linex0\sectdefaultcl\pard\plain \li72\sl-189\slmult0\nowidctlpar\aspalpha\aspnum\faroman\nocwrap\nooverflow\adjustright \ltrch\f12\fs19\expnd-3\expndtw-17\cgrid {Red 
-Politics Ng 1
-\par }\pard\plain \nowidctlpar\aspalpha\aspnum\faroman\nocwrap\nooverflow\adjustright \ltrch\fs24\cgrid {{\shp{\*\shpinst\shpbxpage\shpbxignore\shpbypage\shpbyignore\shpleft628\shptop869\shpright6833\shpbottom869\shpfhdr0\shpwr2\shpwrk0\shpfblwtxt0\shpz3
-\shplid1029{\sp{\sn shapeType}{\sv 20}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn posrelh}{\sv 1}}{\sp{\sn posrelv}{\sv 1}}{\sp{\sn shapePath}{\sv 4}}{\sp{\sn fFillOK}{\sv 0}}{\sp{\sn fFilled}{\sv 0}}{\sp{\sn lineWidth}{\sv 8890}}{\sp{
-\sn fArrowheadsOK}{\sv 1}}{\sp{\sn fBehindDocument}{\sv 0}}{\sp{\sn dxWrapDistLeft}{\sv 0}}{\sp{\sn dxWrapDistTop}{\sv 0}}{\sp{\sn dxWrapDistRight}{\sv 0}}{\sp{\sn dxWrapDistBottom}{\sv 0}}{\sp{\sn lineColor}{\sv 0}}}}}\pard\plain \qj\li432\ri72\sb330
-\sl-210\slmult0\nowidctlpar\aspalpha\aspnum\faroman\nocwrap\nooverflow\adjustright \ltrch\f12\fs19\expnd-1\expndtw-8\cgrid {of enforcing them. But that is not the question. The question is, can mankind fulfill its destiny without a fundamental revolution 
-in the social state of Asia? If not, whatever may have been the crimes of England, she was the unconscious tool of history in bringing about the revolution. (S. Avineri (ed.) pp 93-94.)
-\par }\ql\li72\ri0\sb169\sl-223\slmult0\nowidctlpar\adjustright \expnd0\expndtw2\cgrid {Not long afterwards, Marx wrote as follows:
-\par }\qj\li432\ri72\sb162\sl-211\slmult0\nowidctlpar\adjustright \expnd-1\expndtw-7\cgrid {England has to fulfill a double mission in India: one destructive, the other regenerating - the annihilation of old Asiatic society, and the laying of the material
- foundations of Western society in Asia (S. Avineri (ed.) pp 132.)
-\par }\li72\ri0\sb164\sl-226\slmult0\nowidctlpar\adjustright \expnd0\expndtw2\cgrid {On the destruction side, they broke up or seriously undermined much of the existing social fabric and pre-capitalist modes of production. On the construction side, politi
-cal unity was greatly enhanced by the British sword (mainly in the hands of local recruits), telegraph and railways, and embryonic industrialization began to emerge.
-\par }\ri72\sb170\sl-225\slmult0\nowidctlpar\adjustright \expnd0\expndtw-1\cgrid {It is appropriate that the anti-colonial struggles of the twentieth century have not simply been directed at expelling the foreign oppressor. Rarely was the struggle simply 
+\hich\af45\dbch\af31505\loch\f45 i\hich\af45\dbch\af31505\loch\f45 
+tions, everlasting uncertainty and agitation distinguish the bourgeois epoch from all earlier ones. All fixed, fact-frozen relations, with their train of ancient and venerable prejudices and opinions, are swept away, all new-formed ones becomes antiquated
+\hich\af45\dbch\af31505\loch\f45  \hich\af45\dbch\af31505\loch\f45 before they can ossify.
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \fs24\insrsid7098831 \sect }\sectd \ltrsect\marglsxn664\margrsxn6958\sbknone\linex0\sectdefaultcl\sftnbj \pard\plain \ltrpar\ql \li0\ri0\sl-215\slmult0
+\nowidctlpar\wrapdefault\nocwrap\nooverflow\aspalpha\aspnum\faroman\adjustright\rin0\lin0\itap0 \rtlch\fcs1 \af0\afs24\alang1025 \ltrch\fcs0 \fs20\lang1033\langfe1033\loch\af0\hich\af0\dbch\af31505\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 \af0 
+\ltrch\fcs0 \f45\fs19\expnd0\expndtw4\insrsid9127190 \hich\af45\dbch\af31505\loch\f45 1}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f45\fs19\expnd0\expndtw4\insrsid7098831 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \fs24\insrsid7098831 \sect }\sectd \ltrsect\pgwsxn7963\pghsxn11923\marglsxn1141\margrsxn618\margtsxn660\margbsxn161\linex0\sectdefaultcl\sftnbj 
+\pard\plain \ltrpar\ql \li432\ri72\sb327\sl-211\slmult0\nowidctlpar\wrapdefault\nocwrap\nooverflow\aspalpha\aspnum\faroman\adjustright\rin72\lin432\itap0 \rtlch\fcs1 \af0\afs24\alang1025 \ltrch\fcs0 
+\fs20\lang1033\langfe1033\loch\af0\hich\af0\dbch\af31505\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f45\fs19\expnd-1\expndtw-8\insrsid7098831 \hich\af45\dbch\af31505\loch\f45 
+All that is solid melts into air, all that is holy is profaned, and man \hich\af45\dbch\af31505\loch\f45 is at last compelled to face with sober senses his real condition of life, and his relations with his kind. (Marx and Engels, 1968, pp 34-5. )
+\par }\pard \ltrpar\ql \li72\ri72\sb165\sl-227\slmult0\nowidctlpar\wrapdefault\nocwrap\nooverflow\aspalpha\aspnum\faroman\adjustright\rin72\lin72\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f45\fs19\insrsid7098831 \hich\af45\dbch\af31505\loch\f45 
+This approach to capitalism is at total v\hich\af45\dbch\af31505\loch\f45 
+ariance to that prevailing in the 'left'. The usual practice is to bemoan the development of capitalist productive relations and productive forces, and to cherish the things that capitalism is destroying. A few examples might clarify this point.
+\par }\pard \ltrpar\qj \fi72\li0\ri72\sb165\sl-225\slmult0\nowidctlpar\wrapdefault\nocwrap\nooverflow\aspalpha\aspnum\faroman\adjustright\rin72\lin0\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f45\fs19\insrsid7098831 \hich\af45\dbch\af31505\loch\f45 (1) Increa
+\hich\af45\dbch\af31505\loch\f45 sed economic concentration and the destruction of the petty bourgeoisie. A classic case of the left's response is its bemoaning such things as agribusiness, supermarkets and fastfood chains.
+\par }\pard \ltrpar\qj \li0\ri72\sb162\sl-226\slmult0\nowidctlpar\wrapdefault\nocwrap\nooverflow\aspalpha\aspnum\faroman\adjustright\rin72\lin0\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f45\fs19\insrsid7098831 \hich\af45\dbch\af31505\loch\f45 
+,(2) The increasing internationalisation of capital and the divis\hich\af45\dbch\af31505\loch\f45 
+ion of labor, which increases human intercourse on a world scale and lays the basis for a global society. This is denounced for destroying our 'independence' and national 'heritage' and placing us at the mercy of the 'multinationals'. -
+\par {\pntext\pard\plain\ltrpar \rtlch\fcs1 \af0 \ltrch\fcs0 \f45\fs19\expnd0\expndtw-1 \hich\af45\dbch\af31505\loch\f45 (3)\tab}}\pard \ltrpar\qj \li72\ri72\sb166\sl-224\slmult0\nowidctlpar\jclisttab\tx432\wrapdefault{\*\pn \pnlvlbody\ilvl0\ls2\pnrnot0
+\pndec\pnf45\pnfs19\pnstart3\pnindent360\pnsp120 {\pntxtb (}{\pntxta )}}\nocwrap\nooverflow\aspalpha\aspnum\faroman\ls2\adjustright\rin72\lin72\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f45\fs19\expnd0\expndtw-1\insrsid7098831 \hich\af45\dbch\af31505\loch\f45 
+The destructi\hich\af45\dbch\af31505\loch\f45 
+on of cherished skills by new technologies (cherished, that is, by trendy left sociologists). To a Marxist, technological development is eliminating the technical division of labor which is the material basis of class society. In other words we are moving
+\hich\af45\dbch\af31505\loch\f45  \hich\af45\dbch\af31505\loch\f45 
+to a situation where you will have an educated and versatile workforce, on the one hand, and on the other hand, processes of production in which all types of activities can be performed equally by all members of the workforce.
+\par {\pntext\pard\plain\ltrpar \rtlch\fcs1 \af0 \ltrch\fcs0 \f45\fs19\expnd0\expndtw-2 \hich\af45\dbch\af31505\loch\f45 (4)\tab}}\pard \ltrpar\qj \li72\ri72\sb174\sl-225\slmult0\nowidctlpar\jclisttab\tx360\wrapdefault{\*\pn \pnlvlbody\ilvl0\ls3\pnrnot0
+\pndec\pnf45\pnfs19\pnindent360\pnsp120 {\pntxtb (}{\pntxta )}}\nocwrap\nooverflow\aspalpha\aspnum\faroman\ls3\adjustright\rin72\lin72\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f45\fs19\expnd0\expndtw-2\insrsid7098831 \hich\af45\dbch\af31505\loch\f45 
+The erosion of traditional culture and social bonds. Traditional life tends to be romanticized, compared with soulless modern living. We have 'lost' something. On the other hand, to a Marxist the neuroses and instability of modern life are infinitely supe
+\hich\af45\dbch\af31505\loch\f45 r\hich\af45\dbch\af31505\loch\f45 ior to the narrow mindless certainty and security of days gone by.
+\par }\pard \ltrpar\qj \li0\ri72\sb167\sl-225\slmult0\nowidctlpar\wrapdefault\nocwrap\nooverflow\aspalpha\aspnum\faroman\adjustright\rin72\lin0\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f45\fs19\insrsid7098831 \hich\af45\dbch\af31505\loch\f45 
+So given that capitalism is a social advance and creates the conditions for social revolution, how are we to view European colonial expansion into pre-capitalist societies?
+\par }\pard \ltrpar\qj \li0\ri72\sb169\sl-227\slmult0\nowidctlpar\wrapdefault\nocwrap\nooverflow\aspalpha\aspnum\faroman\adjustright\rin72\lin0\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f45\fs19\insrsid7098831 \hich\af45\dbch\af31505\loch\f45 Warren cites, by
+\hich\af45\dbch\af31505\loch\f45  way of example, Marx's recognition of the historically progressive role of Britain's penetration of India.
+\par }\pard \ltrpar\ql \li360\ri72\sb164\sl-214\slmult0\nowidctlpar\wrapdefault\nocwrap\nooverflow\aspalpha\aspnum\faroman\adjustright\rin72\lin360\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f45\fs19\expnd-1\expndtw-8\insrsid7098831 \hich\af45\dbch\af31505\loch\f45 
+England, it is true, in causing a social revolution in Hindoostan, was actuated by the vilest interests, and was stupid in her manner
+\par }\pard \ltrpar\qr \li0\ri72\sb254\sl-228\slmult0\nowidctlpar\wrapdefault\nocwrap\nooverflow\aspalpha\aspnum\faroman\adjustright\rin72\lin0\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f45\fs19\expnd3\expndtw18\insrsid9127190 \hich\af45\dbch\af31505\loch\f45 2}{
+\rtlch\fcs1 \af0 \ltrch\fcs0 \f45\fs19\expnd3\expndtw18\insrsid7098831 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \fs24\insrsid7098831 \sect }\sectd \ltrsect\marglsxn628\margrsxn1150\margtsxn660\margbsxn182\linex0\sectdefaultcl\sftnbj \pard\plain \ltrpar
+\qj \li432\ri72\sb330\sl-210\slmult0\nowidctlpar\wrapdefault\nocwrap\nooverflow\aspalpha\aspnum\faroman\adjustright\rin72\lin432\itap0 \rtlch\fcs1 \af0\afs24\alang1025 \ltrch\fcs0 
+\fs20\lang1033\langfe1033\loch\af0\hich\af0\dbch\af31505\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f45\fs19\expnd-1\expndtw-8\insrsid7098831 \hich\af45\dbch\af31505\loch\f45 
+of enforcing them. But that is not the question. The question is, can mankind fulfill its destiny without a fundamental revolution in the social state of Asia? If not, whatever may have been the crimes of England, she\hich\af45\dbch\af31505\loch\f45 
+ was the unconscious tool of history in bringing about the revolution. (S. Avineri (ed.) pp 93-94.)
+\par }\pard \ltrpar\ql \li72\ri0\sb169\sl-223\slmult0\nowidctlpar\wrapdefault\nocwrap\nooverflow\aspalpha\aspnum\faroman\adjustright\rin0\lin72\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f45\fs19\expnd0\expndtw2\insrsid7098831 \hich\af45\dbch\af31505\loch\f45 
+Not long afterwards, Marx wrote as follows:
+\par }\pard \ltrpar\qj \li432\ri72\sb162\sl-211\slmult0\nowidctlpar\wrapdefault\nocwrap\nooverflow\aspalpha\aspnum\faroman\adjustright\rin72\lin432\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f45\fs19\expnd-1\expndtw-7\insrsid7098831 \hich\af45\dbch\af31505\loch\f45 
+England has to fulfill a double mission in India: one destructive, the other regenerating - the annihilation of old Asiatic society, and the laying of the material foundations of Western society in Asia (S. Avineri (ed.) pp 132.)
+\par }\pard \ltrpar\qj \li72\ri0\sb164\sl-226\slmult0\nowidctlpar\wrapdefault\nocwrap\nooverflow\aspalpha\aspnum\faroman\adjustright\rin0\lin72\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f45\fs19\expnd0\expndtw2\insrsid7098831 \hich\af45\dbch\af31505\loch\f45 
+On the destruction side, t\hich\af45\dbch\af31505\loch\f45 
+hey broke up or seriously undermined much of the existing social fabric and pre-capitalist modes of production. On the construction side, political unity was greatly enhanced by the British sword (mainly in the hands of local recruits), telegraph and rail
+\hich\af45\dbch\af31505\loch\f45 w\hich\af45\dbch\af31505\loch\f45 ays, and embryonic industrialization began to emerge.
+\par }\pard \ltrpar\qj \li72\ri72\sb170\sl-225\slmult0\nowidctlpar\wrapdefault\nocwrap\nooverflow\aspalpha\aspnum\faroman\adjustright\rin72\lin72\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f45\fs19\expnd0\expndtw-1\insrsid7098831 \hich\af45\dbch\af31505\loch\f45 
+It is appropriate that the anti-colonial struggles of the twentieth century have not simply been directed at expelling the foreign oppressor. Rarely was the struggle simply \hich\af45\dbch\af31505\loch\f45 
 one of returning to the days before colonial rule. For example, the struggle for independence in India was not directed at restoring the Mogul empire and independence in Africa did not mean returning to tribal hunter gathering or slash and burn societies.
- In some cases such as in China the revolution was directed at the total destruction of the traditional conditions that predated colonialism such as the remnants of feudalism. Even where independence from colonialism was not accompanied by fundamental soc
-ial revolutions, the essential aspect of decolonisation was the establishment of a modern state, and the first steps towards a modern economy.
-\par }\sl-224\slmult0\nowidctlpar\adjustright \expnd0\expndtw0\cgrid {In the case of Czarist Russia, the modern industrial sector, which spawned the proletariat in the two decades prior to 1914, was primarily the product of foreign investment. At no stage
- did the Bolsheviks target this foreign ownership as something to be abhorred, an interesting point in the light of the economic nationalist position adopted by most of the Australian left.
-\par }\ql\ri0\sb172\sl-223\slmult0\nowidctlpar\adjustright {To quote Warren:
-\par }\li432\ri72\sb165\sl-214\slmult0\nowidctlpar\adjustright \expnd-1\expndtw-8\cgrid {Between 1896 and 1900 a quarter of all new companies formed were foreign, and by 1900 foreign capital accounted for 28% of the
-\par }\li72\ri0\sb265\sl-223\slmult0\nowidctlpar\adjustright \expnd-2\expndtw-11\cgrid {22
-\par }\pard\plain\sect\sectd\pgwsxn7963\pghsxn11923\stextflow0\marglsxn1139\margrsxn620\margtsxn700\margbsxn161\linex0\sectdefaultcl\pard\plain \qr\ri72\sb6\sl-201\slmult0\nowidctlpar\aspalpha\aspnum\faroman\nocwrap\nooverflow\adjustright \ltrch\f17\fs16
-\expnd0\expndtw-2\ul\cgrid {Refuting 'Anti-Imperialist' Myths
-\par }\qj\li432\sb331\sl-210\slmult0\nowidctlpar\adjustright \f12\fs19\expnd-1\expndtw-8\ul0\cgrid {total. By 1914 the proportion had risen to 33%. Foreign capital controlled 45% of Russia's oil output, 54% of her iron output, 50% of her chemical industry
-, 74% of her coal output. More than half of the capital of the six leading banks of the country - themselves controlling nearly 60% of all banding capital and nearly half of all bank deposits - was foreign (Warren 1980, p 46.)
-\par }\li0\sb175\sl-224\slmult0\nowidctlpar\adjustright \expnd0\expndtw0\cgrid {The position commonly adopted by the left is to deny that capitalism is fulfilling its historical function in the developing countries. We are told that capitalism is not deve
-loping the productive forces nor is it destroying pre-capitalist conditions. The LDCs are supposedly being 'under-developed' by the world capitalist system. A major part of }{\i\cgrid Imperialism, Pioneer of Capitalism }{is devoted to refuting these views
-. The linchpin of these views is the modern theories of imperialism, dependency and underdevelopment. Typical of the theorists in this area are Paul Baran, Andre Gunder Frank and Samir Amin.
-\par }\sb178\nowidctlpar\adjustright \expnd0\expndtw3\cgrid {We are told that the people of the Third World have been getting progressively worse off during the modern era (ie since the industrial revolution) and have generally experienced a socio\-econom
-ic and cultural regression. Capitalism has developed, and continues to do so, in a contradictory fashion, which generates at the same time development in the 'centre' and underdevelopment in the 'periphery'.
-\par }\sb175\nowidctlpar\adjustright \expnd0\expndtw-1\cgrid {The implications is that it is fruitless to expect underdeveloped countries to repeat the stages of economic growth passed through by modern developed capitalist economies, whose classical capi
-talist development arose out of pre-capitalist and feudal society. Hence, the historical role of capitalism in these countries is finished, or at a dead end. It is argued, moreover, that the achievement of political independence has not significantly impr
-oved prospects of development in the 'periphery'.
-\par }\sb164\nowidctlpar\adjustright \expnd0\expndtw0\cgrid {A number of arguments are put forward to support the above position. Warren picks out three as being particularly important.
-\par }\sb165\nowidctlpar\adjustright {(a) A drain of 'economic surplus' from 'periphery' to 'centre' is said to arise from the flow of profits from foreign investment in the periphery back to the metropolitan country, and from unequal exchange in trade.
-\par }\sb183\sa388\nowidctlpar\adjustright {Warren points out 'that for such a drain to retard economic development it must be an absolute drain not simply an unequal
-\par }\pard\plain\sect\sectd\pgwsxn7963\pghsxn11923\stextflow0\marglsxn6943\margrsxn660\margtsxn700\margbsxn161\sbknone\linex0\sectdefaultcl\pard\plain \sb1\sl-193\slmult0\nowidctlpar\aspalpha\aspnum\faroman\nocwrap\nooverflow\adjustright \ltrch\f17\fs16
-\expnd2\expndtw13\cgrid {23
-\par }\pard\plain\sect\sectd\stextflow0\marglsxn613\margrsxn1165\margtsxn680\margbsxn182\linex0\sectdefaultcl\pard\plain \li72\ri72\sb7\sl-162\slmult0\nowidctlpar\aspalpha\aspnum\faroman\nocwrap\nooverflow\adjustright \ltrch\f7\fs16\expnd0\expndtw3\cgrid 
-{Red Politics N}{\super\cgrid 2}{ 1
-\par }\pard\plain \nowidctlpar\aspalpha\aspnum\faroman\nocwrap\nooverflow\adjustright \ltrch\fs24\cgrid {{\shp{\*\shpinst\shpbxpage\shpbxignore\shpbypage\shpbyignore\shpleft613\shptop869\shpright6818\shpbottom869\shpfhdr0\shpwr2\shpwrk0\shpfblwtxt0\shpz4
-\shplid1030{\sp{\sn shapeType}{\sv 20}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn posrelh}{\sv 1}}{\sp{\sn posrelv}{\sv 1}}{\sp{\sn shapePath}{\sv 4}}{\sp{\sn fFillOK}{\sv 0}}{\sp{\sn fFilled}{\sv 0}}{\sp{\sn lineWidth}{\sv 12065}}{\sp{
-\sn fArrowheadsOK}{\sv 1}}{\sp{\sn fBehindDocument}{\sv 0}}{\sp{\sn dxWrapDistLeft}{\sv 0}}{\sp{\sn dxWrapDistTop}{\sv 0}}{\sp{\sn dxWrapDistRight}{\sv 0}}{\sp{\sn dxWrapDistBottom}{\sv 0}}{\sp{\sn lineColor}{\sv 0}}}}}\pard\plain \qj\li72\ri72\sb328
-\sl-226\slmult0\nowidctlpar\aspalpha\aspnum\faroman\nocwrap\nooverflow\adjustright \ltrch\f12\fs19\expnd0\expndtw-1\cgrid {`transaction' that nevertheless leaves both sides better off than before ... ' For example, the comparison that people make between 
-profit outflow and capital inflow tends to be very misleading. Surplus extraction under capitalism is not comparable to the plunder practiced by the empires of antiquity. Foreign investment creates the surplus (with the help of local labor of course) befo
-re it extracts it; and it does this by developing the productive forces. You can certainly criticise the form that foreign investment and trade take, and argue that Third World countries would gain if they were better organised. What you cannot argue is t
-hat the wealth of Third World countries is being depleted.
-\par }\sb141\nowidctlpar\adjustright \expnd0\expndtw1\cgrid {Closely related to this 'surplus drain' concept is the idea that developed countries are better off than others because they have more than their share of the world's resources. In other words t
-he reason why we have better plumbing than people in Bangladesh is because we have more than our share of the world's supply of pipes and trained plumbers. Or to put it more generally, there is a fixed quantity of some substance called `prosperity' and th
-e more that goes to one lot of people the less there is for everybody else. There is a total failure to understand economic development as a process of economic accumulation. Its most negative effect is the implication that the interests of people in the 
-developed and underdeveloped world are at loggerheads.
-\par }{\pntext\pard\plain \ltrch\f12\fs19\expnd0\expndtw2\cgrid (b)\tab}\pard \qj\li72\ri72\sb166\sl-226\slmult0\nowidctlpar\jclisttab\tx360{\*\pn \pnlvlbody\ilvl0\pnf12\pnfs19\pnulnone\pnlcltr\pnstart2\pnindent0\pnhang\pnsp288{\pntxtb (}{\pntxta )}}\ls4
-\aspalpha\aspnum\faroman\nocwrap\nooverflow\adjustright \expnd0\expndtw2\cgrid {The 'traditional' division of labor between 'centre' and `periphery' countries whereby the former produces manufactured goods and the latter primary goods, is seen to be impos
-ed on the 'periphery' by the 'centre', and is a source of its backwardness.
-\par }\pard \qj\li72\ri72\sb160\sl-226\slmult0\nowidctlpar\aspalpha\aspnum\faroman\nocwrap\nooverflow\adjustright \expnd0\expndtw-2\cgrid {Warren argues that the validity of the argument rests on two assumptions, which he sets out to refute. These are fir
-st that there was a possible and desirable alternative line of development to primary-product, export-lead growth in the backward countries concerned; and second, that the initial emphasis on the export of primary products actually erected serious impedim
-ents to subsequent diversification, especially along the lines of industrialisation.
-\par }{\pntext\pard\plain \ltrch\f12\fs19\expnd0\expndtw2\cgrid (b)\tab}\pard \qj\li72\ri72\sb155\sa417\sl-231\slmult0\nowidctlpar\jclisttab\tx360{\*\pn \pnlvlbody\ilvl0\pnf12\pnfs19\pnulnone\pnlcltr\pnstart3\pnindent0\pnhang\pnsp288{\pntxtb (}{
-\pntxta )}}\ls4\aspalpha\aspnum\faroman\nocwrap\nooverflow\adjustright \expnd0\expndtw0\cgrid {Imperialism or `centre'/'periphery' relations are said to encourage the preservation of precapitalist modes of production.
-\par }\pard\plain\sect\sectd\stextflow0\marglsxn564\margrsxn7058\margtsxn680\margbsxn182\sbknone\linex0\sectdefaultcl\pard\plain \sb2\sl-191\slmult0\nowidctlpar\aspalpha\aspnum\faroman\nocwrap\nooverflow\adjustright \ltrch\f7\fs16\expnd4\expndtw24\cgrid {
-24
-\par }\pard\plain\sect\sectd\pgwsxn7963\pghsxn11923\stextflow0\marglsxn1110\margrsxn649\margtsxn640\margbsxn191\linex0\sectdefaultcl\pard\plain \qr\li72\ri72\sb22\sl-207\slmult0\nowidctlpar\aspalpha\aspnum\faroman\nocwrap\nooverflow\adjustright \ltrch\f7
-\fs17\expnd0\expndtw4\ul\cgrid {Refuting 'Anti-Imperialist' Myths
-\par }\qj\sb335\sl-225\slmult0\nowidctlpar\adjustright \f12\fs19\expnd0\expndtw0\ul0\cgrid {This is discussed at two levels. First, there is the case where capitalist production at one point encourages pre-capitalist production at another point (eg, cotto
-n production based on slavery). Here Warren correctly argues that the destructive force of capitalist relations would far outweigh any conserving tendencies. Second, there is the claim that imperialism has tended to ally itself with local feudalism at the
- expense of progressive bourgeois forces. Warren replies that this is 'largely undercut by the almost universal willingness of feudal classes to transform themselves, at least partly, into capitalist industrialisers once conditions are ripe.' Where Warren
- falls short on this question is in failing to emphasise that a thoroughly bourgeois revolution would far more successfully unleash capitalist development.
-\par }\sb166\nowidctlpar\adjustright {At a more general and theoretical level Warren attacks dependency theory on a number of grounds.
-\par }\sb171\nowidctlpar\adjustright {To begin with it is a static view. While a change in form over time tends to be conceded, the possibility of declining dependency is precluded. Moreover, changes in the centres of power is inadequately allowed for.
-\par }\ql\sb167\nowidctlpar\adjustright \expnd0\expndtw-1\cgrid {The theory is ahistorical in that it assumes the following:
-\par }{\pntext\pard\plain \ltrch\f12\fs19\cgrid (a)\tab}\pard \qj\li72\ri72\sb166\sl-225\slmult0\nowidctlpar\jclisttab\tx360{\*\pn \pnlvlbody\ilvl0\pnf12\pnfs19\pnulnone\pnlcltr\pnstart1\pnindent0\pnhang\pnsp288{\pntxtb (}{\pntxta )}}\ls5\aspalpha\aspnum
-\faroman\nocwrap\nooverflow\adjustright \expnd0\expndtw0\cgrid {that there were latent suppressed historical alternatives to the development that actually took place;
-\par }\sb165\nowidctlpar\adjustright {that the failure of alternatives to materialise was primarily the result of external imposition (colonial policy).
-\par }\pard \qj\li72\ri72\sb167\sa504\sl-225\slmult0\nowidctlpar\aspalpha\aspnum\faroman\nocwrap\nooverflow\adjustright \expnd0\expndtw-2\cgrid {The theory is metaphysical in that it basically explains social phenomenon in terms of external causes, rather
- than as an interaction of both internal and external factors. (Mao spoke of external factors as the conditions of change and internal factors as the basis of change.) Dependency theorists would, for example, explain a country's backwardness by the fact t
-hat foreign capital is only invested in 'enclaves' or cash crops. A more sensible approach would perhaps be to see cause and effect running the other way - because the country is backward these industries are the only opportunities for investment. The bac
-kwardness would then be explained essentially by internal factors, namely a social system and mode of production significantly inferior to, or historically less advanced than, capitalism in developed countries.
-\par }\pard\plain\sect\sectd\pgwsxn7963\pghsxn11923\stextflow0\marglsxn6932\margrsxn671\margtsxn640\margbsxn191\sbknone\linex0\sectdefaultcl\pard\plain \sb6\sl-196\slmult0\nowidctlpar\aspalpha\aspnum\faroman\nocwrap\nooverflow\adjustright \ltrch\f7\fs17
-\expnd4\expndtw21\cgrid {25
-\par }\pard\plain\sect\sectd\stextflow0\marglsxn666\margrsxn1112\margtsxn680\margbsxn172\linex0\sectdefaultcl\pard\plain \li72\ri72\sb1\sl-183\slmult0\nowidctlpar\aspalpha\aspnum\faroman\nocwrap\nooverflow\adjustright \ltrch\f22\fs16\cgrid {Red Politics N
-Q 1
-\par }\pard\plain \nowidctlpar\aspalpha\aspnum\faroman\nocwrap\nooverflow\adjustright \ltrch\fs24\cgrid {{\shp{\*\shpinst\shpbxpage\shpbxignore\shpbypage\shpbyignore\shpleft666\shptop883\shpright6871\shpbottom883\shpfhdr0\shpwr2\shpwrk0\shpfblwtxt0\shpz5
-\shplid1031{\sp{\sn shapeType}{\sv 20}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn posrelh}{\sv 1}}{\sp{\sn posrelv}{\sv 1}}{\sp{\sn shapePath}{\sv 4}}{\sp{\sn fFillOK}{\sv 0}}{\sp{\sn fFilled}{\sv 0}}{\sp{\sn lineWidth}{\sv 12065}}{\sp{
-\sn fArrowheadsOK}{\sv 1}}{\sp{\sn fBehindDocument}{\sv 0}}{\sp{\sn dxWrapDistLeft}{\sv 0}}{\sp{\sn dxWrapDistTop}{\sv 0}}{\sp{\sn dxWrapDistRight}{\sv 0}}{\sp{\sn dxWrapDistBottom}{\sv 0}}{\sp{\sn lineColor}{\sv 0}}}}}\pard\plain \qj\li72\ri72\sb327
-\sl-226\slmult0\nowidctlpar\aspalpha\aspnum\faroman\nocwrap\nooverflow\adjustright \ltrch\f12\fs19\cgrid {Dependency theory has a strong thread of nationalist utopia, which establishes a set of thoroughly dubious criteria of what is good and what is detri
-mental. The first 'blossoms' of bourgeois society are denounced simply as imperialist cultural penetration (coca cola culture) serving the interests of the 'multinationals' and reinforcing dependent status.
-\par }\sb159\nowidctlpar\adjustright {There is also the concept of 'articulated' economy. Every country has to have its own steel industry, for example. It is argued that if you do not have the full range of industries you are trapped into some narrow and
- enslaving international division of labor.
-\par }\sb177\nowidctlpar\adjustright {This last point touches on a major area of confusion, namely, the distinction between dependence and interdependence. Warren says:
-\par }\li432\sb158\sl-212\slmult0\nowidctlpar\adjustright {Since national economies are becoming increasingly interdependent, the meaning of dependence is even more elusive, not to say mystical.( Warren, 1980, p 182)
-\par }\li72\sb163\sl-226\slmult0\nowidctlpar\adjustright {In fact with the increasing importance of international trade and capital movement, it is often the case that dependence on trade and foreign investment is a sign of economic development.
-\par }\sb157\nowidctlpar\adjustright \expnd0\expndtw1\cgrid {The last section of Warren's book provides extensive evidence that considerable economic development has occurred in the Third Word during the post-war period. It has been meteoric in comparison
- with that in western countries. The western countries took centuries to emerge from the Middle Ages and eventually achieve an 'industrial takeoff' in the nineteenth century.
-\par }\ql\sb326\sl-295\slmult0\nowidctlpar\adjustright \f22\fs24\expnd2\expndtw12\cgrid {On Lenin's views of imperialism
-\par }\qj\sb163\sa821\sl-226\slmult0\nowidctlpar\adjustright \f12\fs19\expnd0\expndtw0\cgrid {In Warren's opinion, the more recent theories of imperialism, such as underdevelopment and dependency are best regarded as post-war versions of the views express
-ed by Lenin in }{\i\cgrid Imperialism, the Highest Stage of Capitalism, }{or at any rate stemming, or continuing, from where he left off. Warren also claimed that in this book Lenin was espousing views that were at variance with his earlier writings on th
-e Narodniks and the role of capitalist development in Russia.
-\par }\pard\plain\sect\sectd\stextflow0\marglsxn598\margrsxn7024\margtsxn680\margbsxn172\sbknone\linex0\sectdefaultcl\pard\plain \sl-218\slmult0\nowidctlpar\aspalpha\aspnum\faroman\nocwrap\nooverflow\adjustright \ltrch\f12\fs19\expnd0\expndtw4\cgrid {26
-\par }\pard\plain\sect\sectd\pgwsxn7963\pghsxn11923\stextflow0\marglsxn1084\margrsxn675\margtsxn600\margbsxn211\linex0\sectdefaultcl\pard\plain \qr\li72\ri72\sb17\sl-204\slmult0\nowidctlpar\aspalpha\aspnum\faroman\nocwrap\nooverflow\adjustright \ltrch\f17
-\fs16\expnd0\expndtw-2\ul\cgrid {Refuting 'Anti-Imperialist' Myths
-\par }\qj\sb330\sl-225\slmult0\nowidctlpar\adjustright \f12\fs19\expnd0\expndtw0\ul0\cgrid {Here Warren is skating on thin ice. Much of his case rests on Lenin's use of particular words, especially 'moribund', 'stagnant' and 'parasitic'. By 'moribund', Le
-nin is referring to the increasing obsolescence of capitalism, exemplified most starkly by two world wars and economic crises of the sort that hit in the 1930s and will hit again in the future. He is not saying that social and economic development ceases.
- In his use of the word `stagnation', Lenin is not saying that capitalism is no longer revolutionising the productive forces - a proposition that would obviously be wrong. He is referring to its increasing tardiness relative to a communist organisation of
- production - the productive forces are outgrowing the capitalist mode of production. Warren tries to equate Lenin's description of monopoly capital and imperialist countries as parasitic with the crude 'surplus drain' view. However, Lenin is not denying 
-that the export of capital develops the productive forces in recipient countries; he is just saying that the centralisation in the ownership of capital shows up geographically. Places such as London and New York have a far higher than average proportion o
-f the world's bloodsuckers; they tend to be richer and their 'portfolios' span the world. When Lenin explicitly discusses the impact of imperialism on the then colonies, he says that it was developing the productive forces. Warren unjustifiably shrugs thi
-s off as lip service to Marxist orthodoxy.
-\par }\sb163\nowidctlpar\adjustright \expnd0\expndtw-3\cgrid {Warren had a number of other criticisms of Lenin's position. However, they are not central to our present discussion. He claims (a) that capital exports have not increased in significance, (b) 
-that Lenin espoused underconsumptionism and (c) that inter-imperialist rivalry was based on trade rather than competing capital. These and other issues could perhaps be looked at on some other occasion in a fuller discussion of Lenin's book.
-\par }\ql\sb313\sl-307\slmult0\nowidctlpar\adjustright \f17\fs24\cgrid {Bibliography
-\par }\qj\sb162\sl-225\slmult0\nowidctlpar\adjustright \f12\fs19\expnd0\expndtw0\cgrid {Amin, }{\i\cgrid S., Accumulation on a World Scale, }{New York, Monthly Review Press, 1974.
-\par }\sb165\nowidctlpar\adjustright {Avineri, S., ed., }{\i\cgrid Karl Marx on Colonialism and Modernisation, }{New York, Anchor Books, 1969.
-\par }\sb178\sa478\sl-220\slmult0\nowidctlpar\adjustright {Frank, A. G., }{\i\cgrid Capitalism and Underdevelopment in Latin America, }{Harmondsworth, Penguin Books, 1971.
-\par }\pard\plain\sect\sectd\pgwsxn7963\pghsxn11923\stextflow0\marglsxn6917\margrsxn686\margtsxn600\margbsxn211\sbknone\linex0\sectdefaultcl\pard\plain \sl-195\slmult0\nowidctlpar\aspalpha\aspnum\faroman\nocwrap\nooverflow\adjustright \ltrch\f17\fs16
-\expnd2\expndtw14\cgrid {27
-\par }\pard\plain\sect\sectd\stextflow0\marglsxn642\margrsxn1136\margtsxn640\margbsxn202\linex0\sectdefaultcl\pard\plain \sb5\sl-175\slmult0\nowidctlpar\aspalpha\aspnum\faroman\nocwrap\nooverflow\adjustright \ltrch\f17\fs15\cgrid {Red Politics N}{\super
-\cgrid 2}{ 1
-\par }\pard\plain \nowidctlpar\aspalpha\aspnum\faroman\nocwrap\nooverflow\adjustright \ltrch\fs24\cgrid {{\shp{\*\shpinst\shpbxpage\shpbxignore\shpbypage\shpbyignore\shpleft642\shptop835\shpright6847\shpbottom835\shpfhdr0\shpwr2\shpwrk0\shpfblwtxt0\shpz6
-\shplid1032{\sp{\sn shapeType}{\sv 20}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn posrelh}{\sv 1}}{\sp{\sn posrelv}{\sv 1}}{\sp{\sn shapePath}{\sv 4}}{\sp{\sn fFillOK}{\sv 0}}{\sp{\sn fFilled}{\sv 0}}{\sp{\sn lineWidth}{\sv 12065}}{\sp{
-\sn fArrowheadsOK}{\sv 1}}{\sp{\sn fBehindDocument}{\sv 0}}{\sp{\sn dxWrapDistLeft}{\sv 0}}{\sp{\sn dxWrapDistTop}{\sv 0}}{\sp{\sn dxWrapDistRight}{\sv 0}}{\sp{\sn dxWrapDistBottom}{\sv 0}}{\sp{\sn lineColor}{\sv 0}}}}}\pard\plain \ri72\sb332\sl-226
-\slmult0\nowidctlpar\aspalpha\aspnum\faroman\nocwrap\nooverflow\adjustright \ltrch\f27\fs23\cgrid {Greene, F., }{\i\cgrid The Enemy, Notes on Imperialism and Revolution, }{London, Jonathon Cape, 1970. One of the more readable and also more appalling rende
-rings of the 'anti-imperialist' position.
-\par }\sb146\sl-232\slmult0\nowidctlpar\adjustright {Lenin, V. I., 'On the so-called market question', }{\i\cgrid Collected Works, }{Vol. 1, Moscow, 1963.
-\par }\pard \sb155\sl-226\slmult0\nowidctlpar\tqr\tlhyph\tx6120\aspalpha\aspnum\faroman\nocwrap\nooverflow\adjustright {\tab  `The economic content of Narodism and the criticism
-\par }\pard \sb1\sl-227\slmult0\nowidctlpar\aspalpha\aspnum\faroman\nocwrap\nooverflow\adjustright \expnd0\expndtw4\cgrid {of it in Mr Struve's book', }{\i\cgrid Collected Works, }{Vol. }{\i\cgrid 7, }{Moscow, 1963.
-\par }\pard \sb167\sl-236\slmult0\nowidctlpar\tqr\tlhyph\tx6120\aspalpha\aspnum\faroman\nocwrap\nooverflow\adjustright \expnd0\expndtw0\i\cgrid {\tab , Imperialism: the Highest Stage of Capitalism, }{\i0\cgrid Peking,
-\par }\pard \sl-226\slmult0\nowidctlpar\aspalpha\aspnum\faroman\nocwrap\nooverflow\adjustright \expnd1\expndtw7\i0\cgrid {Foreign Language Press.
-\par }\ri72\sb151\sl-230\slmult0\nowidctlpar\adjustright \expnd2\expndtw12\cgrid {Marx, K., }{\i\cgrid Pre-Capitalist Economic Formations, }{London, Lawrence and Wishart, 1964.
-\par }\pard \sb158\sl-231\slmult0\nowidctlpar\tqr\tlhyph\tx6120\aspalpha\aspnum\faroman\nocwrap\nooverflow\adjustright \expnd0\expndtw0\cgrid {\tab  and Engels, F., }{\i\cgrid Manifesto of the Communist Party,
-\par }\pard \sl-233\slmult0\nowidctlpar\aspalpha\aspnum\faroman\nocwrap\nooverflow\adjustright \expnd1\expndtw6\cgrid {Peking, Foreign Language Press, 1968.
-\par }\ri72\sb163\sl-228\slmult0\nowidctlpar\adjustright \expnd0\expndtw0\cgrid {Warren, W., 'Imperialism and capitalist industrialisation', in }{\i\cgrid New Left Review }{(1973).
-\par }\pard \sb157\sl-229\slmult0\nowidctlpar\tqr\tlhyph\tx6120\aspalpha\aspnum\faroman\nocwrap\nooverflow\adjustright \i\cgrid {\tab , Imperialism and Neo-Colonialism, }{\i0\cgrid British and Irish
-\par }\pard \sl-234\slmult0\nowidctlpar\aspalpha\aspnum\faroman\nocwrap\nooverflow\adjustright \expnd1\expndtw6\i0\cgrid {Communist Organisation (March 1977).
-\par }\pard \sb150\sl-229\slmult0\nowidctlpar\tqr\tlhyph\tx6120\aspalpha\aspnum\faroman\nocwrap\nooverflow\adjustright \expnd0\expndtw0\cgrid {\tab , 'Nations and corporations' in 1 November 1977.
-\par }\pard \sl-230\slmult0\nowidctlpar\aspalpha\aspnum\faroman\nocwrap\nooverflow\adjustright \expnd3\expndtw18\i\cgrid {Times Literary Supplement.
-\par }\pard \sb160\sl-228\slmult0\nowidctlpar\tqr\tlhyph\tx6120\aspalpha\aspnum\faroman\nocwrap\nooverflow\adjustright \expnd0\expndtw0\i0\cgrid {\tab , 'Poverty and prosperity' in }{\i\cgrid Times Literary
-\par }\pard \sl-227\slmult0\nowidctlpar\aspalpha\aspnum\faroman\nocwrap\nooverflow\adjustright \expnd1\expndtw8\i\cgrid {Supplement, }{\i0\cgrid 12 December 1975.
-\par }\pard\plain \nowidctlpar\aspalpha\aspnum\faroman\nocwrap\nooverflow\adjustright \ltrch\fs24\cgrid {{\shp{\*\shpinst\shpbxpage\shpbxignore\shpbypage\shpbyignore\shpleft696\shptop7685\shpright1470\shpbottom7685\shpfhdr0\shpwr2\shpwrk0\shpfblwtxt0
-\shpz7\shplid1033{\sp{\sn shapeType}{\sv 20}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}{\sp{\sn posrelh}{\sv 1}}{\sp{\sn posrelv}{\sv 1}}{\sp{\sn shapePath}{\sv 4}}{\sp{\sn fFillOK}{\sv 0}}{\sp{\sn fFilled}{\sv 0}}{\sp{\sn lineWidth}{\sv 12065}}{\sp
-{\sn fArrowheadsOK}{\sv 1}}{\sp{\sn fBehindDocument}{\sv 0}}{\sp{\sn dxWrapDistLeft}{\sv 0}}{\sp{\sn dxWrapDistTop}{\sv 0}}{\sp{\sn dxWrapDistRight}{\sv 0}}{\sp{\sn dxWrapDistBottom}{\sv 0}}{\sp{\sn lineDashing}{\sv 1}}{\sp{\sn lineColor}{\sv 0}}}}}\pard
-\plain \fi864\ri72\sb172\sa3230\sl-226\slmult0\nowidctlpar\aspalpha\aspnum\faroman\nocwrap\nooverflow\adjustright \ltrch\f27\fs23\expnd3\expndtw18\i\cgrid {, Imperialism, Pioneer of Capitalism, }{\i0\cgrid Verso, 1980, 274 p.
-\par }\pard\plain\sect\sectd\stextflow0\marglsxn578\margrsxn7044\margtsxn640\margbsxn202\sbknone\linex0\sectdefaultcl\pard\plain \sl-184\slmult0\nowidctlpar\aspalpha\aspnum\faroman\nocwrap\nooverflow\adjustright \ltrch\f17\fs15\expnd3\expndtw18\cgrid {28
-\par }\pard\plain}
+\hich\af45\dbch\af31505\loch\f45  \hich\af45\dbch\af31505\loch\f45 
+In some cases such as in China the revolution was directed at the total destruction of the traditional conditions that predated colonialism such as the remnants of feudalism. Even where independence from colonialism was not accompanied by fundamental soci
+\hich\af45\dbch\af31505\loch\f45 a\hich\af45\dbch\af31505\loch\f45 l revolutions, the essential aspect of decolonisation was the establishment of a modern state, and the first steps towards a modern economy.
+\par }\pard \ltrpar\qj \li72\ri72\sb170\sl-224\slmult0\nowidctlpar\wrapdefault\nocwrap\nooverflow\aspalpha\aspnum\faroman\adjustright\rin72\lin72\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f45\fs19\insrsid7098831 \hich\af45\dbch\af31505\loch\f45 
+In the case of Czarist Russia, the modern industrial sector, which spawned the proletariat in the two decades prior\hich\af45\dbch\af31505\loch\f45 
+ to 1914, was primarily the product of foreign investment. At no stage did the Bolsheviks target this foreign ownership as something to be abhorred, an interesting point in the light of the economic nationalist position adopted by most of the Australian l
+\hich\af45\dbch\af31505\loch\f45 e\hich\af45\dbch\af31505\loch\f45 ft.
+\par }\pard \ltrpar\ql \li72\ri0\sb172\sl-223\slmult0\nowidctlpar\wrapdefault\nocwrap\nooverflow\aspalpha\aspnum\faroman\adjustright\rin0\lin72\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f45\fs19\insrsid7098831 \hich\af45\dbch\af31505\loch\f45 To quote Warren:
+
+\par }\pard \ltrpar\ql \li432\ri72\sb165\sl-214\slmult0\nowidctlpar\wrapdefault\nocwrap\nooverflow\aspalpha\aspnum\faroman\adjustright\rin72\lin432\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f45\fs19\expnd-1\expndtw-8\insrsid7098831 \hich\af45\dbch\af31505\loch\f45 
+Between 1896 and 1900 a quarter of all new companies formed were foreign, and by 1900 foreign capital accounted for 28% of the
+\par }\pard \ltrpar\ql \li72\ri0\sb265\sl-223\slmult0\nowidctlpar\wrapdefault\nocwrap\nooverflow\aspalpha\aspnum\faroman\adjustright\rin0\lin72\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f45\fs19\expnd-2\expndtw-11\insrsid9127190 \hich\af45\dbch\af31505\loch\f45 3}{
+\rtlch\fcs1 \af0 \ltrch\fcs0 \f45\fs19\expnd-2\expndtw-11\insrsid7098831 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \fs24\insrsid7098831 \sect }\sectd \ltrsect\pgwsxn7963\pghsxn11923\marglsxn1139\margrsxn620\margtsxn700\margbsxn161\linex0\sectdefaultcl\sftnbj 
+\pard\plain \ltrpar\qj \li432\ri72\sb331\sl-210\slmult0\nowidctlpar\wrapdefault\nocwrap\nooverflow\aspalpha\aspnum\faroman\adjustright\rin72\lin432\itap0 \rtlch\fcs1 \af0\afs24\alang1025 \ltrch\fcs0 
+\fs20\lang1033\langfe1033\loch\af0\hich\af0\dbch\af31505\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f45\fs19\expnd-1\expndtw-8\insrsid7098831 \hich\af45\dbch\af31505\loch\f45 
+total. By 1914 the proportion had risen to 33%. Foreign capital controlled 45% of Russia's oil output, 54% of her iron output, 50% of her chemical industry, 74% of her coal output. More than half of the capital of the six leading banks of the country - th
+\hich\af45\dbch\af31505\loch\f45 e\hich\af45\dbch\af31505\loch\f45 mselves controlling nearly 60% of all banding capital and nearly half of all bank deposits - was foreign (Warren 1980, p 46.)
+\par }\pard \ltrpar\qj \li0\ri72\sb175\sl-224\slmult0\nowidctlpar\wrapdefault\nocwrap\nooverflow\aspalpha\aspnum\faroman\adjustright\rin72\lin0\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f45\fs19\insrsid7098831 \hich\af45\dbch\af31505\loch\f45 
+The position commonly adopted by the left is to deny that capitalism is fulfilling its historical function in the developing count\hich\af45\dbch\af31505\loch\f45 
+ries. We are told that capitalism is not developing the productive forces nor is it destroying pre-capitalist conditions. The LDCs are supposedly being 'under-developed' by the world capitalist system. A major part of }{\rtlch\fcs1 \af0 \ltrch\fcs0 
+\i\f45\fs19\insrsid7098831 \hich\af45\dbch\af31505\loch\f45 Imperialism, Pioneer of Capitalism }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f45\fs19\insrsid7098831 \hich\af45\dbch\af31505\loch\f45 is \hich\af45\dbch\af31505\loch\f45 
+devoted to refuting these views. The linchpin of these views is the modern theories of imperialism, dependency and underdevelopment. Typical of the theorists in this area are Paul Baran, Andre Gunder Frank and Samir Amin.
+\par }\pard \ltrpar\qj \li0\ri72\sb178\sl-224\slmult0\nowidctlpar\wrapdefault\nocwrap\nooverflow\aspalpha\aspnum\faroman\adjustright\rin72\lin0\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f45\fs19\expnd0\expndtw3\insrsid7098831 \hich\af45\dbch\af31505\loch\f45 
+We are told that the people of the\hich\af45\dbch\af31505\loch\f45  Third World have been getting progressively worse off during the modern era (ie since the industrial revolution) and have generally experienced a socio\-
+economic and cultural regression. Capitalism has developed, and continues to do so, in a contradictory\hich\af45\dbch\af31505\loch\f45  \hich\af45\dbch\af31505\loch\f45 
+fashion, which generates at the same time development in the 'centre' and underdevelopment in the 'periphery'.
+\par }\pard \ltrpar\qj \li0\ri72\sb175\sl-224\slmult0\nowidctlpar\wrapdefault\nocwrap\nooverflow\aspalpha\aspnum\faroman\adjustright\rin72\lin0\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f45\fs19\expnd0\expndtw-1\insrsid7098831 \hich\af45\dbch\af31505\loch\f45 
+The implications is that it is fruitless to expect underdeveloped countries to repeat the stages of economic growth passed through by modern deve\hich\af45\dbch\af31505\loch\f45 
+loped capitalist economies, whose classical capitalist development arose out of pre-capitalist and feudal society. Hence, the historical role of capitalism in these countries is finished, or at a dead end. It is argued, moreover, that the achievement of p
+\hich\af45\dbch\af31505\loch\f45 o\hich\af45\dbch\af31505\loch\f45 litical independence has not significantly improved prospects of development in the 'periphery'.
+\par }\pard \ltrpar\qj \li0\ri72\sb164\sl-224\slmult0\nowidctlpar\wrapdefault\nocwrap\nooverflow\aspalpha\aspnum\faroman\adjustright\rin72\lin0\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f45\fs19\insrsid7098831 \hich\af45\dbch\af31505\loch\f45 
+A number of arguments are put forward to support the above position. Warren picks out three as being particularly important.
+\par }\pard \ltrpar\qj \li0\ri72\sb165\sl-224\slmult0\nowidctlpar\wrapdefault\nocwrap\nooverflow\aspalpha\aspnum\faroman\adjustright\rin72\lin0\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f45\fs19\insrsid7098831 \hich\af45\dbch\af31505\loch\f45 
+(a) A drain of 'economic surplus' \hich\af45\dbch\af31505\loch\f45 from 'periphery' to 'centre' is said to arise from the flow of profits from foreign investment in the periphery back to the metropolitan country, and from unequal exchange in trade.
+\par }\pard \ltrpar\qj \li0\ri72\sb183\sa388\sl-224\slmult0\nowidctlpar\wrapdefault\nocwrap\nooverflow\aspalpha\aspnum\faroman\adjustright\rin72\lin0\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f45\fs19\insrsid7098831 \hich\af45\dbch\af31505\loch\f45 
+Warren points out 'that for such a drain to retard economic development it must be an absolute drain not simply an unequal
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \fs24\insrsid7098831 \sect }\sectd \ltrsect\pgwsxn7963\pghsxn11923\marglsxn6943\margrsxn660\margtsxn700\margbsxn161\sbknone\linex0\sectdefaultcl\sftnbj 
+\pard\plain \ltrpar\ql \li0\ri0\sb1\sl-193\slmult0\nowidctlpar\wrapdefault\nocwrap\nooverflow\aspalpha\aspnum\faroman\adjustright\rin0\lin0\itap0 \rtlch\fcs1 \af0\afs24\alang1025 \ltrch\fcs0 
+\fs20\lang1033\langfe1033\loch\af0\hich\af0\dbch\af31505\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f40\fs16\expnd2\expndtw13\insrsid9127190 \hich\af40\dbch\af31505\loch\f40 4}{\rtlch\fcs1 \af0 \ltrch\fcs0 
+\f40\fs16\expnd2\expndtw13\insrsid7098831 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \fs24\insrsid7098831 \sect }\sectd \ltrsect\marglsxn613\margrsxn1165\margtsxn680\margbsxn182\linex0\sectdefaultcl\sftnbj \pard\plain \ltrpar
+\qj \li72\ri72\sb328\sl-226\slmult0\nowidctlpar\wrapdefault\nocwrap\nooverflow\aspalpha\aspnum\faroman\adjustright\rin72\lin72\itap0 \rtlch\fcs1 \af0\afs24\alang1025 \ltrch\fcs0 
+\fs20\lang1033\langfe1033\loch\af0\hich\af0\dbch\af31505\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f45\fs19\expnd0\expndtw-1\insrsid7098831 \hich\af45\dbch\af31505\loch\f45 
+`transaction' that nevertheless leaves both sides better off than be\hich\af45\dbch\af31505\loch\f45 
+fore ... ' For example, the comparison that people make between profit outflow and capital inflow tends to be very misleading. Surplus extraction under capitalism is not comparable to the plunder practiced by the empires of antiquity. Foreign investment c
+\hich\af45\dbch\af31505\loch\f45 r\hich\af45\dbch\af31505\loch\f45 
+eates the surplus (with the help of local labor of course) before it extracts it; and it does this by developing the productive forces. You can certainly criticise the form that foreign investment and trade take, and argue that Third World countries would
+\hich\af45\dbch\af31505\loch\f45  \hich\af45\dbch\af31505\loch\f45 gain if they were better organised. What you cannot argue is that the wealth of Third World countries is being depleted.
+\par }\pard \ltrpar\qj \li72\ri72\sb141\sl-226\slmult0\nowidctlpar\wrapdefault\nocwrap\nooverflow\aspalpha\aspnum\faroman\adjustright\rin72\lin72\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f45\fs19\expnd0\expndtw1\insrsid7098831 \hich\af45\dbch\af31505\loch\f45 
+Closely related to this 'surplus drain' concept is the idea that developed countries are better off than others because they have more \hich\af45\dbch\af31505\loch\f45 
+than their share of the world's resources. In other words the reason why we have better plumbing than people in Bangladesh is because we have more than our share of the world's supply of pipes and trained plumbers. Or to put it more generally, there is a 
+\hich\af45\dbch\af31505\loch\f45 f\hich\af45\dbch\af31505\loch\f45 
+ixed quantity of some substance called `prosperity' and the more that goes to one lot of people the less there is for everybody else. There is a total failure to understand economic development as a process of economic accumulation. Its most negative effe
+\hich\af45\dbch\af31505\loch\f45 c\hich\af45\dbch\af31505\loch\f45 t is the implication that the interests of people in the developed and underdeveloped world are at loggerheads.
+\par {\pntext\pard\plain\ltrpar \rtlch\fcs1 \af0 \ltrch\fcs0 \f45\fs19\expnd0\expndtw2 \hich\af45\dbch\af31505\loch\f45 (b)\tab}}\pard \ltrpar\qj \li72\ri72\sb166\sl-226\slmult0\nowidctlpar\jclisttab\tx360\wrapdefault{\*\pn \pnlvlbody\ilvl0\ls4\pnrnot0
+\pnlcltr\pnf45\pnfs19\pnstart2\pnindent360\pnsp120 {\pntxtb (}{\pntxta )}}\nocwrap\nooverflow\aspalpha\aspnum\faroman\ls4\adjustright\rin72\lin72\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f45\fs19\expnd0\expndtw2\insrsid7098831 
+\hich\af45\dbch\af31505\loch\f45 The 'traditional' division of labor between 'centre' and `periphery' countries whereby the former produces manufactured goods and the latt\hich\af45\dbch\af31505\loch\f45 
+er primary goods, is seen to be imposed on the 'periphery' by the 'centre', and is a source of its backwardness.
+\par }\pard \ltrpar\qj \li72\ri72\sb160\sl-226\slmult0\nowidctlpar\wrapdefault{\*\pn \pnlvlcont\ilvl0\ls0\pnrnot0\pndec }\nocwrap\nooverflow\aspalpha\aspnum\faroman\adjustright\rin72\lin72\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 
+\f45\fs19\expnd0\expndtw-2\insrsid7098831 \hich\af45\dbch\af31505\loch\f45 Warren argues that the validity of the argument rests on two assumptions, which he sets out to refute. These are first that there was a possibl\hich\af45\dbch\af31505\loch\f45 
+e and desirable alternative line of development to primary-product, export-lead growth in the backward countries concerned; and second, that the initial emphasis on the export of primary products actually erected serious impediments to subsequent diversif
+\hich\af45\dbch\af31505\loch\f45 i\hich\af45\dbch\af31505\loch\f45 cation, especially along the lines of industrialisation.
+\par {\pntext\pard\plain\ltrpar \rtlch\fcs1 \af0 \ltrch\fcs0 \f45\fs19\expnd0\expndtw2 \hich\af45\dbch\af31505\loch\f45 (c)\tab}}\pard \ltrpar\qj \li72\ri72\sb155\sa417\sl-231\slmult0\nowidctlpar\jclisttab\tx360\wrapdefault{\*\pn \pnlvlbody\ilvl0\ls4\pnrnot0
+\pnlcltr\pnf45\pnfs19\pnstart2\pnindent360\pnsp120 {\pntxtb (}{\pntxta )}}\nocwrap\nooverflow\aspalpha\aspnum\faroman\ls4\adjustright\rin72\lin72\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f45\fs19\insrsid7098831 \hich\af45\dbch\af31505\loch\f45 
+Imperialism or `centre'/'periphery' relations are said to encourage the preservation of precapitalist modes of production.
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \fs24\insrsid7098831 \sect }\sectd \ltrsect\marglsxn564\margrsxn7058\margtsxn680\margbsxn182\sbknone\linex0\sectdefaultcl\sftnbj \pard\plain \ltrpar
+\ql \li0\ri0\sb2\sl-191\slmult0\nowidctlpar\wrapdefault\nocwrap\nooverflow\aspalpha\aspnum\faroman\adjustright\rin0\lin0\itap0 \rtlch\fcs1 \af0\afs24\alang1025 \ltrch\fcs0 
+\fs20\lang1033\langfe1033\loch\af0\hich\af0\dbch\af31505\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f44\fs16\expnd4\expndtw24\insrsid9127190 \hich\af44\dbch\af31505\loch\f44 5}{\rtlch\fcs1 \af0 \ltrch\fcs0 
+\f44\fs16\expnd4\expndtw24\insrsid7098831 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \fs24\insrsid7098831 \sect }\sectd \ltrsect\pgwsxn7963\pghsxn11923\marglsxn1110\margrsxn649\margtsxn640\margbsxn191\linex0\sectdefaultcl\sftnbj 
+\pard\plain \ltrpar\qj \li72\ri72\sb335\sl-225\slmult0\nowidctlpar\wrapdefault\nocwrap\nooverflow\aspalpha\aspnum\faroman\adjustright\rin72\lin72\itap0 \rtlch\fcs1 \af0\afs24\alang1025 \ltrch\fcs0 
+\fs20\lang1033\langfe1033\loch\af0\hich\af0\dbch\af31505\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f45\fs19\insrsid7098831 \hich\af45\dbch\af31505\loch\f45 This is discussed at two levels. First, there is the 
+\hich\af45\dbch\af31505\loch\f45 
+case where capitalist production at one point encourages pre-capitalist production at another point (eg, cotton production based on slavery). Here Warren correctly argues that the destructive force of capitalist relations would far outweigh any conserving
+\hich\af45\dbch\af31505\loch\f45  \hich\af45\dbch\af31505\loch\f45 
+tendencies. Second, there is the claim that imperialism has tended to ally itself with local feudalism at the expense of progressive bourgeois forces. Warren replies that this is 'largely undercut by the almost universal willingness of feudal classes to t
+\hich\af45\dbch\af31505\loch\f45 r\hich\af45\dbch\af31505\loch\f45 
+ansform themselves, at least partly, into capitalist industrialisers once conditions are ripe.' Where Warren falls short on this question is in failing to emphasise that a thoroughly bourgeois revolution would far more successfully unleash capitalist deve
+\hich\af45\dbch\af31505\loch\f45 l\hich\af45\dbch\af31505\loch\f45 opment.
+\par }\pard \ltrpar\qj \li72\ri72\sb166\sl-225\slmult0\nowidctlpar\wrapdefault\nocwrap\nooverflow\aspalpha\aspnum\faroman\adjustright\rin72\lin72\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f45\fs19\insrsid7098831 \hich\af45\dbch\af31505\loch\f45 
+At a more general and theoretical level Warren attacks dependency theory on a number of grounds.
+\par }\pard \ltrpar\qj \li72\ri72\sb171\sl-225\slmult0\nowidctlpar\wrapdefault\nocwrap\nooverflow\aspalpha\aspnum\faroman\adjustright\rin72\lin72\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f45\fs19\insrsid7098831 \hich\af45\dbch\af31505\loch\f45 
+To begin with it is a static view. While a change in form over time tends to be conceded, the possibility of declining dependency is precluded. Moreove\hich\af45\dbch\af31505\loch\f45 r, changes in the centres of power is inadequately allowed for.
+\par }\pard \ltrpar\ql \li72\ri72\sb167\sl-225\slmult0\nowidctlpar\wrapdefault\nocwrap\nooverflow\aspalpha\aspnum\faroman\adjustright\rin72\lin72\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f45\fs19\expnd0\expndtw-1\insrsid7098831 \hich\af45\dbch\af31505\loch\f45 
+The theory is ahistorical in that it assumes the following:
+\par {\pntext\pard\plain\ltrpar \rtlch\fcs1 \af0 \ltrch\fcs0 \f45\fs19 \hich\af45\dbch\af31505\loch\f45 (a)\tab}}\pard \ltrpar\qj \li72\ri72\sb166\sl-225\slmult0\nowidctlpar\jclisttab\tx360\wrapdefault{\*\pn \pnlvlbody\ilvl0\ls5\pnrnot0
+\pnlcltr\pnf45\pnfs19\pnstart1\pnindent360\pnsp120 {\pntxtb (}{\pntxta )}}\nocwrap\nooverflow\aspalpha\aspnum\faroman\ls5\adjustright\rin72\lin72\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f45\fs19\insrsid7098831 \hich\af45\dbch\af31505\loch\f45 
+that there were latent suppressed historical alternatives to the development that actually took place;
+\par {\pntext\pard\plain\ltrpar \rtlch\fcs1 \af0 \ltrch\fcs0 \f45\fs19 \hich\af45\dbch\af31505\loch\f45 (b)\tab}}\pard \ltrpar\qj \li72\ri72\sb165\sl-225\slmult0\nowidctlpar\jclisttab\tx360\wrapdefault{\*\pn \pnlvlbody\ilvl0\ls5\pnrnot0
+\pnlcltr\pnf45\pnfs19\pnstart1\pnindent360\pnsp120 {\pntxtb (}{\pntxta )}}\nocwrap\nooverflow\aspalpha\aspnum\faroman\ls5\adjustright\rin72\lin72\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f45\fs19\insrsid7098831 \hich\af45\dbch\af31505\loch\f45 
+that the failure of alternatives to materialise was primarily the result of external imposition (colonial policy).
+\par }\pard \ltrpar\qj \li72\ri72\sb167\sa504\sl-225\slmult0\nowidctlpar\wrapdefault\nocwrap\nooverflow\aspalpha\aspnum\faroman\adjustright\rin72\lin72\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f45\fs19\expnd0\expndtw-2\insrsid7098831 
+\hich\af45\dbch\af31505\loch\f45 The theory is metaphysical in that it \hich\af45\dbch\af31505\loch\f45 
+basically explains social phenomenon in terms of external causes, rather than as an interaction of both internal and external factors. (Mao spoke of external factors as the conditions of change and internal factors as the basis of change.) Dependency theo
+\hich\af45\dbch\af31505\loch\f45 r\hich\af45\dbch\af31505\loch\f45 
+ists would, for example, explain a country's backwardness by the fact that foreign capital is only invested in 'enclaves' or cash crops. A more sensible approach would perhaps be to see cause and effect running the other way - because the country is backw
+\hich\af45\dbch\af31505\loch\f45 a\hich\af45\dbch\af31505\loch\f45 
+rd these industries are the only opportunities for investment. The backwardness would then be explained essentially by internal factors, namely a social system and mode of production significantly inferior to, or historically less advanced than, capitalis
+\hich\af45\dbch\af31505\loch\f45 m\hich\af45\dbch\af31505\loch\f45  in developed countries.
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \fs24\insrsid7098831 \sect }\sectd \ltrsect\pgwsxn7963\pghsxn11923\marglsxn6932\margrsxn671\margtsxn640\margbsxn191\sbknone\linex0\sectdefaultcl\sftnbj 
+\pard\plain \ltrpar\ql \li0\ri0\sb6\sl-196\slmult0\nowidctlpar\wrapdefault\nocwrap\nooverflow\aspalpha\aspnum\faroman\adjustright\rin0\lin0\itap0 \rtlch\fcs1 \af0\afs24\alang1025 \ltrch\fcs0 
+\fs20\lang1033\langfe1033\loch\af0\hich\af0\dbch\af31505\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f44\fs17\expnd4\expndtw21\insrsid9127190 \hich\af44\dbch\af31505\loch\f44 6}{\rtlch\fcs1 \af0 \ltrch\fcs0 
+\f44\fs17\expnd4\expndtw21\insrsid7098831 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \fs24\insrsid7098831 \sect }\sectd \ltrsect\marglsxn666\margrsxn1112\margtsxn680\margbsxn172\linex0\sectdefaultcl\sftnbj \pard\plain \ltrpar
+\qj \li72\ri72\sb327\sl-226\slmult0\nowidctlpar\wrapdefault\nocwrap\nooverflow\aspalpha\aspnum\faroman\adjustright\rin72\lin72\itap0 \rtlch\fcs1 \af0\afs24\alang1025 \ltrch\fcs0 
+\fs20\lang1033\langfe1033\loch\af0\hich\af0\dbch\af31505\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f45\fs19\insrsid9127190 \hich\af45\dbch\af31505\loch\f45 D}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f45\fs19\insrsid7098831 
+\hich\af45\dbch\af31505\loch\f45 
+ependency theory has a strong thread of nationalist utopia, which establishes a set of thoroughly dubious criteria of what is good and what is detrimental. The first 'blossoms' of bourgeois society are denounced simply as imperialist cultural penetration 
+\hich\af45\dbch\af31505\loch\f45 (coca cola culture) serving the interests of the 'multinationals' and reinforcing dependent status.
+\par }\pard \ltrpar\qj \li72\ri72\sb159\sl-226\slmult0\nowidctlpar\wrapdefault\nocwrap\nooverflow\aspalpha\aspnum\faroman\adjustright\rin72\lin72\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f45\fs19\insrsid7098831 \hich\af45\dbch\af31505\loch\f45 
+There is also the concept of 'articulated' economy. Every country has to have its own steel industry, for example. It is argued that if you do not have the \hich\af45\dbch\af31505\loch\f45 
+full range of industries you are trapped into some narrow and enslaving international division of labor.
+\par }\pard \ltrpar\qj \li72\ri72\sb177\sl-226\slmult0\nowidctlpar\wrapdefault\nocwrap\nooverflow\aspalpha\aspnum\faroman\adjustright\rin72\lin72\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f45\fs19\insrsid7098831 \hich\af45\dbch\af31505\loch\f45 
+This last point touches on a major area of confusion, namely, the distinction between dependence and interdependence. Warren says:
+\par }\pard \ltrpar\qj \li432\ri72\sb158\sl-212\slmult0\nowidctlpar\wrapdefault\nocwrap\nooverflow\aspalpha\aspnum\faroman\adjustright\rin72\lin432\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f45\fs19\insrsid7098831 \hich\af45\dbch\af31505\loch\f45 
+Since national econo\hich\af45\dbch\af31505\loch\f45 mies are becoming increasingly interdependent, the meaning of dependence is even more elusive, not to say mystical.( Warren, 1980, p 182)
+\par }\pard \ltrpar\qj \li72\ri72\sb163\sl-226\slmult0\nowidctlpar\wrapdefault\nocwrap\nooverflow\aspalpha\aspnum\faroman\adjustright\rin72\lin72\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f45\fs19\insrsid7098831 \hich\af45\dbch\af31505\loch\f45 
+In fact with the increasing importance of international trade and capital movement, it is often the case that dependen\hich\af45\dbch\af31505\loch\f45 ce on trade and foreign investment is a sign of economic development.
+\par }\pard \ltrpar\qj \li72\ri72\sb157\sl-226\slmult0\nowidctlpar\wrapdefault\nocwrap\nooverflow\aspalpha\aspnum\faroman\adjustright\rin72\lin72\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f45\fs19\expnd0\expndtw1\insrsid7098831 \hich\af45\dbch\af31505\loch\f45 
+The last section of Warren's book provides extensive evidence that considerable economic development has occurred in the Third Word during the post-war period. It has been meteoric in co\hich\af45\dbch\af31505\loch\f45 
+mparison with that in western countries. The western countries took centuries to emerge from the Middle Ages and eventually achieve an 'industrial takeoff' in the nineteenth century.
+\par }\pard \ltrpar\ql \li72\ri72\sb326\sl-295\slmult0\nowidctlpar\wrapdefault\nocwrap\nooverflow\aspalpha\aspnum\faroman\adjustright\rin72\lin72\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f1\fs24\expnd2\expndtw12\insrsid7098831 \hich\af1\dbch\af31505\loch\f1 
+On Lenin's views of imperialism
+\par }\pard \ltrpar\qj \li72\ri72\sb163\sa821\sl-226\slmult0\nowidctlpar\wrapdefault\nocwrap\nooverflow\aspalpha\aspnum\faroman\adjustright\rin72\lin72\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f45\fs19\insrsid7098831 \hich\af45\dbch\af31505\loch\f45 
+In Warren's opinion, the more recent theories of imperialism, such as underdevelopment and dependency are best regarded as post-war versions of the views expressed by Lenin in }{\rtlch\fcs1 \af0 \ltrch\fcs0 \i\f45\fs19\insrsid7098831 
+\hich\af45\dbch\af31505\loch\f45 Imperialism, the Highest Stage of Capitalism, }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f45\fs19\insrsid7098831 \hich\af45\dbch\af31505\loch\f45 or at any rate stemming, or contin\hich\af45\dbch\af31505\loch\f45 
+uing, from where he left off. Warren also claimed that in this book Lenin was espousing views that were at variance with his earlier writings on the Narodniks and the role of capitalist development in Russia.
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \fs24\insrsid7098831 \sect }\sectd \ltrsect\marglsxn598\margrsxn7024\margtsxn680\margbsxn172\sbknone\linex0\sectdefaultcl\sftnbj \pard\plain \ltrpar
+\ql \li0\ri0\sl-218\slmult0\nowidctlpar\wrapdefault\nocwrap\nooverflow\aspalpha\aspnum\faroman\adjustright\rin0\lin0\itap0 \rtlch\fcs1 \af0\afs24\alang1025 \ltrch\fcs0 \fs20\lang1033\langfe1033\loch\af0\hich\af0\dbch\af31505\cgrid\langnp1033\langfenp1033 
+{\rtlch\fcs1 \af0 \ltrch\fcs0 \f45\fs19\expnd0\expndtw4\insrsid9127190 \hich\af45\dbch\af31505\loch\f45 7}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f45\fs19\expnd0\expndtw4\insrsid7098831 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \fs24\insrsid7098831 \sect }\sectd \ltrsect\pgwsxn7963\pghsxn11923\marglsxn1084\margrsxn675\margtsxn600\margbsxn211\linex0\sectdefaultcl\sftnbj 
+\pard\plain \ltrpar\qj \li72\ri72\sb330\sl-225\slmult0\nowidctlpar\wrapdefault\nocwrap\nooverflow\aspalpha\aspnum\faroman\adjustright\rin72\lin72\itap0 \rtlch\fcs1 \af0\afs24\alang1025 \ltrch\fcs0 
+\fs20\lang1033\langfe1033\loch\af0\hich\af0\dbch\af31505\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f45\fs19\insrsid7098831 \hich\af45\dbch\af31505\loch\f45 
+Here Warren is skating on thin ice. Much of his case rests on Lenin's use of particular words, especially 'moribund', 'stagnant' and 'parasitic'. By 'moribund', Lenin is referring to the increasing obsolescence of capitalis
+\hich\af45\dbch\af31505\loch\f45 
+m, exemplified most starkly by two world wars and economic crises of the sort that hit in the 1930s and will hit again in the future. He is not saying that social and economic development ceases. In his use of the word `stagnation', Lenin is not saying th
+\hich\af45\dbch\af31505\loch\f45 a\hich\af45\dbch\af31505\loch\f45 
+t capitalism is no longer revolutionising the productive forces - a proposition that would obviously be wrong. He is referring to its increasing tardiness relative to a communist organisation of production - the productive forces are outgrowing the capita
+\hich\af45\dbch\af31505\loch\f45 l\hich\af45\dbch\af31505\loch\f45 
+ist mode of production. Warren tries to equate Lenin's description of monopoly capital and imperialist countries as parasitic with the crude 'surplus drain' view. However, Lenin is not denying that the export of capital develops the productive forces in r
+\hich\af45\dbch\af31505\loch\f45 e\hich\af45\dbch\af31505\loch\f45 
+cipient countries; he is just saying that the centralisation in the ownership of capital shows up geographically. Places such as London and New York have a far higher than average proportion of the world's bloodsuckers; they tend to be richer and their 'p
+\hich\af45\dbch\af31505\loch\f45 o\hich\af45\dbch\af31505\loch\f45 
+rtfolios' span the world. When Lenin explicitly discusses the impact of imperialism on the then colonies, he says that it was developing the productive forces. Warren unjustifiably shrugs this off as lip service to Marxist orthodoxy.
+\par }\pard \ltrpar\qj \li72\ri72\sb163\sl-225\slmult0\nowidctlpar\wrapdefault\nocwrap\nooverflow\aspalpha\aspnum\faroman\adjustright\rin72\lin72\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f45\fs19\expnd0\expndtw-3\insrsid7098831 \hich\af45\dbch\af31505\loch\f45 
+Warren had a number of\hich\af45\dbch\af31505\loch\f45 
+ other criticisms of Lenin's position. However, they are not central to our present discussion. He claims (a) that capital exports have not increased in significance, (b) that Lenin espoused underconsumptionism and (c) that inter-imperialist rivalry was b
+\hich\af45\dbch\af31505\loch\f45 a\hich\af45\dbch\af31505\loch\f45 sed on trade rather than competing capital. These and other issues could perhaps be looked at on some other occasion in a fuller discussion of Lenin's book.
+\par }\pard \ltrpar\ql \li72\ri72\sb313\sl-307\slmult0\nowidctlpar\wrapdefault\nocwrap\nooverflow\aspalpha\aspnum\faroman\adjustright\rin72\lin72\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f40\fs24\expnd0\expndtw-3\insrsid7098831 \hich\af40\dbch\af31505\loch\f40 
+Bibliography
+\par }\pard \ltrpar\qj \li72\ri72\sb162\sl-225\slmult0\nowidctlpar\wrapdefault\nocwrap\nooverflow\aspalpha\aspnum\faroman\adjustright\rin72\lin72\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f45\fs19\insrsid7098831 \hich\af45\dbch\af31505\loch\f45 Amin, }{\rtlch\fcs1 
+\af0 \ltrch\fcs0 \i\f45\fs19\insrsid7098831 \hich\af45\dbch\af31505\loch\f45 S., Accumulation on a World Scale, }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f45\fs19\insrsid7098831 \hich\af45\dbch\af31505\loch\f45 New York, Monthly Review Press, 1974.
+\par }\pard \ltrpar\qj \li72\ri72\sb165\sl-225\slmult0\nowidctlpar\wrapdefault\nocwrap\nooverflow\aspalpha\aspnum\faroman\adjustright\rin72\lin72\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f45\fs19\insrsid7098831 \hich\af45\dbch\af31505\loch\f45 Avineri, S., ed., }{
+\rtlch\fcs1 \af0 \ltrch\fcs0 \i\f45\fs19\insrsid7098831 \hich\af45\dbch\af31505\loch\f45 Karl Marx on Colonialism and Modernisation, }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f45\fs19\insrsid7098831 \hich\af45\dbch\af31505\loch\f45 New York, Anchor Books, 1969.
+
+\par }\pard \ltrpar\qj \li72\ri72\sb178\sa478\sl-220\slmult0\nowidctlpar\wrapdefault\nocwrap\nooverflow\aspalpha\aspnum\faroman\adjustright\rin72\lin72\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f45\fs19\insrsid7098831 \hich\af45\dbch\af31505\loch\f45 Frank, A. G., 
+}{\rtlch\fcs1 \af0 \ltrch\fcs0 \i\f45\fs19\insrsid7098831 \hich\af45\dbch\af31505\loch\f45 Capitalism and Underdevelopment in Latin America, }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f45\fs19\insrsid7098831 \hich\af45\dbch\af31505\loch\f45 
+Harmondsworth, Penguin Books, 1971.
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \fs24\insrsid7098831 \sect }\sectd \ltrsect\pgwsxn7963\pghsxn11923\marglsxn6917\margrsxn686\margtsxn600\margbsxn211\sbknone\linex0\sectdefaultcl\sftnbj 
+\pard\plain \ltrpar\ql \li0\ri0\sl-195\slmult0\nowidctlpar\wrapdefault\nocwrap\nooverflow\aspalpha\aspnum\faroman\adjustright\rin0\lin0\itap0 \rtlch\fcs1 \af0\afs24\alang1025 \ltrch\fcs0 
+\fs20\lang1033\langfe1033\loch\af0\hich\af0\dbch\af31505\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f40\fs16\expnd2\expndtw14\insrsid9127190 \hich\af40\dbch\af31505\loch\f40 8}{\rtlch\fcs1 \af0 \ltrch\fcs0 
+\f40\fs16\expnd2\expndtw14\insrsid7098831 
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \fs24\insrsid7098831 \sect }\sectd \ltrsect\marglsxn642\margrsxn1136\margtsxn640\linex0\sectdefaultcl\sftnbj \pard\plain \ltrpar
+\ql \li0\ri72\sb332\sl-226\slmult0\nowidctlpar\wrapdefault\nocwrap\nooverflow\aspalpha\aspnum\faroman\adjustright\rin72\lin0\itap0 \rtlch\fcs1 \af0\afs24\alang1025 \ltrch\fcs0 
+\fs20\lang1033\langfe1033\loch\af0\hich\af0\dbch\af31505\cgrid\langnp1033\langfenp1033 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f42\fs23\insrsid7098831 \hich\af42\dbch\af31505\loch\f42 Greene, F., }{\rtlch\fcs1 \af0 \ltrch\fcs0 \i\f42\fs23\insrsid7098831 
+\hich\af42\dbch\af31505\loch\f42 The Enemy, Notes on Imperialism and Revolution, }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f42\fs23\insrsid7098831 \hich\af42\dbch\af31505\loch\f42 
+London, Jonathon Cape, 1970. One of the more readable and also more appalling renderings of the 'anti-imperialist' position.
+\par }\pard \ltrpar\ql \li0\ri72\sb146\sl-232\slmult0\nowidctlpar\wrapdefault\nocwrap\nooverflow\aspalpha\aspnum\faroman\adjustright\rin72\lin0\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f42\fs23\insrsid7098831 \hich\af42\dbch\af31505\loch\f42 
+Lenin, V. I., 'On the so-called market question', }{\rtlch\fcs1 \af0 \ltrch\fcs0 \i\f42\fs23\insrsid7098831 \hich\af42\dbch\af31505\loch\f42 Collected Works, }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f42\fs23\insrsid7098831 \hich\af42\dbch\af31505\loch\f42 Vol
+\hich\af42\dbch\af31505\loch\f42 . 1, Moscow, 1963.
+\par }\pard \ltrpar\ql \li0\ri0\sb155\sl-226\slmult0\nowidctlpar\tqr\tlhyph\tx6120\wrapdefault\nocwrap\nooverflow\aspalpha\aspnum\faroman\adjustright\rin0\lin0\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f42\fs23\insrsid7098831 \tab \hich\af42\dbch\af31505\loch\f42 
+ `The economic content of Narodism and the criticism
+\par }\pard \ltrpar\ql \li0\ri0\sb1\sl-227\slmult0\nowidctlpar\wrapdefault\nocwrap\nooverflow\aspalpha\aspnum\faroman\adjustright\rin0\lin0\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f42\fs23\expnd0\expndtw4\insrsid7098831 \hich\af42\dbch\af31505\loch\f42 
+of it in Mr Struve's book', }{\rtlch\fcs1 \af0 \ltrch\fcs0 \i\f42\fs23\expnd0\expndtw4\insrsid7098831 \hich\af42\dbch\af31505\loch\f42 Collected Works, }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f42\fs23\expnd0\expndtw4\insrsid7098831 
+\hich\af42\dbch\af31505\loch\f42 Vol. }{\rtlch\fcs1 \af0 \ltrch\fcs0 \i\f42\fs23\expnd0\expndtw4\insrsid7098831 \hich\af42\dbch\af31505\loch\f42 7, }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f42\fs23\expnd0\expndtw4\insrsid7098831 \hich\af42\dbch\af31505\loch\f42 
+Moscow, 1963.
+\par }\pard \ltrpar\ql \li0\ri0\sb167\sl-236\slmult0\nowidctlpar\tqr\tlhyph\tx6120\wrapdefault\nocwrap\nooverflow\aspalpha\aspnum\faroman\adjustright\rin0\lin0\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \i\f42\fs23\insrsid7098831 \tab 
+\hich\af42\dbch\af31505\loch\f42 , Imperialism: the Highest Stage of Capitalism, }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f42\fs23\insrsid7098831 \hich\af42\dbch\af31505\loch\f42 Peking,
+\par }\pard \ltrpar\ql \li0\ri0\sl-226\slmult0\nowidctlpar\wrapdefault\nocwrap\nooverflow\aspalpha\aspnum\faroman\adjustright\rin0\lin0\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f42\fs23\expnd1\expndtw7\insrsid7098831 \hich\af42\dbch\af31505\loch\f42 
+Foreign Language Press.
+\par }\pard \ltrpar\ql \li0\ri72\sb151\sl-230\slmult0\nowidctlpar\wrapdefault\nocwrap\nooverflow\aspalpha\aspnum\faroman\adjustright\rin72\lin0\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f42\fs23\expnd2\expndtw12\insrsid7098831 \hich\af42\dbch\af31505\loch\f42 
+Marx, K., }{\rtlch\fcs1 \af0 \ltrch\fcs0 \i\f42\fs23\expnd2\expndtw12\insrsid7098831 \hich\af42\dbch\af31505\loch\f42 Pre-Capitalist Economic Formations, }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f42\fs23\expnd2\expndtw12\insrsid7098831 
+\hich\af42\dbch\af31505\loch\f42 London, Lawrence and Wishart, 1964.
+\par }\pard \ltrpar\ql \li0\ri0\sb158\sl-231\slmult0\nowidctlpar\tqr\tlhyph\tx6120\wrapdefault\nocwrap\nooverflow\aspalpha\aspnum\faroman\adjustright\rin0\lin0\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f42\fs23\insrsid7098831 \tab \hich\af42\dbch\af31505\loch\f42 
+ and Engels, F., }{\rtlch\fcs1 \af0 \ltrch\fcs0 \i\f42\fs23\insrsid7098831 \hich\af42\dbch\af31505\loch\f42 Manifesto of the Communist Party,
+\par }\pard \ltrpar\ql \li0\ri0\sl-233\slmult0\nowidctlpar\wrapdefault\nocwrap\nooverflow\aspalpha\aspnum\faroman\adjustright\rin0\lin0\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f42\fs23\expnd1\expndtw6\insrsid7098831 \hich\af42\dbch\af31505\loch\f42 
+Peking, Foreign Language Press, 1968.
+\par }\pard \ltrpar\ql \li0\ri72\sb163\sl-228\slmult0\nowidctlpar\wrapdefault\nocwrap\nooverflow\aspalpha\aspnum\faroman\adjustright\rin72\lin0\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f42\fs23\insrsid7098831 \hich\af42\dbch\af31505\loch\f42 
+Warren, W., 'Imperialism and capitalist industrialisation', in }{\rtlch\fcs1 \af0 \ltrch\fcs0 \i\f42\fs23\insrsid7098831 \hich\af42\dbch\af31505\loch\f42 New Left Review }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f42\fs23\insrsid7098831 
+\hich\af42\dbch\af31505\loch\f42 (1973).
+\par }\pard \ltrpar\ql \li0\ri0\sb157\sl-229\slmult0\nowidctlpar\tqr\tlhyph\tx6120\wrapdefault\nocwrap\nooverflow\aspalpha\aspnum\faroman\adjustright\rin0\lin0\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \i\f42\fs23\insrsid7098831 \tab 
+\hich\af42\dbch\af31505\loch\f42 , Impe\hich\af42\dbch\af31505\loch\f42 rialism and Neo-Colonialism, }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f42\fs23\insrsid7098831 \hich\af42\dbch\af31505\loch\f42 British and Irish
+\par }\pard \ltrpar\ql \li0\ri0\sl-234\slmult0\nowidctlpar\wrapdefault\nocwrap\nooverflow\aspalpha\aspnum\faroman\adjustright\rin0\lin0\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f42\fs23\expnd1\expndtw6\insrsid7098831 \hich\af42\dbch\af31505\loch\f42 
+Communist Organisation (March 1977).
+\par }\pard \ltrpar\ql \li0\ri0\sb150\sl-229\slmult0\nowidctlpar\tqr\tlhyph\tx6120\wrapdefault\nocwrap\nooverflow\aspalpha\aspnum\faroman\adjustright\rin0\lin0\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f42\fs23\insrsid7098831 \tab \hich\af42\dbch\af31505\loch\f42 
+, 'Nations and corporations' in 1 November 1977.
+\par }\pard \ltrpar\ql \li0\ri0\sl-230\slmult0\nowidctlpar\wrapdefault\nocwrap\nooverflow\aspalpha\aspnum\faroman\adjustright\rin0\lin0\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \i\f42\fs23\expnd3\expndtw18\insrsid7098831 \hich\af42\dbch\af31505\loch\f42 
+Times Literary Supplement.
+\par }\pard \ltrpar\ql \li0\ri0\sb160\sl-228\slmult0\nowidctlpar\tqr\tlhyph\tx6120\wrapdefault\nocwrap\nooverflow\aspalpha\aspnum\faroman\adjustright\rin0\lin0\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \f42\fs23\insrsid7098831 \tab \hich\af42\dbch\af31505\loch\f42 
+, 'Poverty and prosperity' in }{\rtlch\fcs1 \af0 \ltrch\fcs0 \i\f42\fs23\insrsid7098831 \hich\af42\dbch\af31505\loch\f42 Times Literary
+\par }\pard \ltrpar\ql \li0\ri0\sl-227\slmult0\nowidctlpar\wrapdefault\nocwrap\nooverflow\aspalpha\aspnum\faroman\adjustright\rin0\lin0\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \i\f42\fs23\expnd1\expndtw8\insrsid7098831 \hich\af42\dbch\af31505\loch\f42 Supplement, 
+}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f42\fs23\expnd1\expndtw8\insrsid7098831 \hich\af42\dbch\af31505\loch\f42 12 December 1975.
+\par }\pard \ltrpar\ql \fi864\li0\ri72\sb172\sa3230\sl-226\slmult0\nowidctlpar\wrapdefault\nocwrap\nooverflow\aspalpha\aspnum\faroman\adjustright\rin72\lin0\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \lang1024\langfe1024\noproof\insrsid7098831 
+{\shp{\*\shpinst\shpleft696\shptop7685\shpright1470\shpbottom7685\shpfhdr0\shpbxpage\shpbxignore\shpbypage\shpbyignore\shpwr2\shpwrk0\shpfblwtxt0\shpz1\shplid1032{\sp{\sn shapeType}{\sv 20}}{\sp{\sn fFlipH}{\sv 0}}{\sp{\sn fFlipV}{\sv 0}}
+{\sp{\sn shapePath}{\sv 4}}{\sp{\sn fFillOK}{\sv 0}}{\sp{\sn fFilled}{\sv 0}}{\sp{\sn lineWidth}{\sv 12065}}{\sp{\sn lineDashing}{\sv 1}}{\sp{\sn fArrowheadsOK}{\sv 1}}{\sp{\sn dxWrapDistLeft}{\sv 0}}{\sp{\sn dxWrapDistRight}{\sv 0}}
+{\sp{\sn posrelh}{\sv 1}}{\sp{\sn posrelv}{\sv 1}}{\sp{\sn dhgt}{\sv 251664384}}{\sp{\sn fLayoutInCell}{\sv 0}}{\sp{\sn fBehindDocument}{\sv 0}}{\sp{\sn fLayoutInCell}{\sv 0}}}{\shprslt{\*\do\dobxpage\dobypage\dodhgt8193
+\dpline\dpptx0\dppty0\dpptx774\dppty0\dplinedash\dpx696\dpy7685\dpxsize774\dpysize0\dplinew19\dplinecor0\dplinecog0\dplinecob0}}}}{\rtlch\fcs1 \af0 \ltrch\fcs0 \i\f42\fs23\expnd3\expndtw18\insrsid7098831 \hich\af42\dbch\af31505\loch\f42 
+, Imperialism, Pioneer of Capitalism, }{\rtlch\fcs1 \af0 \ltrch\fcs0 \f42\fs23\expnd3\expndtw18\insrsid7098831 \hich\af42\dbch\af31505\loch\f42 Verso, 1980, 274 p.
+\par }\pard \ltrpar\ql \li0\ri0\widctlpar\wrapdefault\faauto\rin0\lin0\itap0 {\rtlch\fcs1 \af0 \ltrch\fcs0 \fs24\insrsid7098831 \sect }\sectd \ltrsect\marglsxn578\margrsxn7044\margtsxn640\sbknone\linex0\sectdefaultcl\sftnbj \pard\plain \ltrpar
+\ql \li0\ri0\sl-184\slmult0\nowidctlpar\wrapdefault\nocwrap\nooverflow\aspalpha\aspnum\faroman\adjustright\rin0\lin0\itap0 \rtlch\fcs1 \af0\afs24\alang1025 \ltrch\fcs0 \fs20\lang1033\langfe1033\loch\af0\hich\af0\dbch\af31505\cgrid\langnp1033\langfenp1033 
+{\rtlch\fcs1 \af0 \ltrch\fcs0 \f40\fs15\expnd3\expndtw18\insrsid9127190 \hich\af40\dbch\af31505\loch\f40 9}{\rtlch\fcs1 \af0 \ltrch\fcs0 \f40\fs15\expnd3\expndtw18\insrsid7098831 
+\par }{\*\themedata 504b030414000600080000002100e9de0fbfff0000001c020000130000005b436f6e74656e745f54797065735d2e786d6cac91cb4ec3301045f748fc83e52d4a
+9cb2400825e982c78ec7a27cc0c8992416c9d8b2a755fbf74cd25442a820166c2cd933f79e3be372bd1f07b5c3989ca74aaff2422b24eb1b475da5df374fd9ad
+5689811a183c61a50f98f4babebc2837878049899a52a57be670674cb23d8e90721f90a4d2fa3802cb35762680fd800ecd7551dc18eb899138e3c943d7e503b6
+b01d583deee5f99824e290b4ba3f364eac4a430883b3c092d4eca8f946c916422ecab927f52ea42b89a1cd59c254f919b0e85e6535d135a8de20f20b8c12c3b0
+0c895fcf6720192de6bf3b9e89ecdbd6596cbcdd8eb28e7c365ecc4ec1ff1460f53fe813d3cc7f5b7f020000ffff0300504b030414000600080000002100a5d6
+a7e7c0000000360100000b0000005f72656c732f2e72656c73848fcf6ac3300c87ef85bd83d17d51d2c31825762fa590432fa37d00e1287f68221bdb1bebdb4f
+c7060abb0884a4eff7a93dfeae8bf9e194e720169aaa06c3e2433fcb68e1763dbf7f82c985a4a725085b787086a37bdbb55fbc50d1a33ccd311ba548b6309512
+0f88d94fbc52ae4264d1c910d24a45db3462247fa791715fd71f989e19e0364cd3f51652d73760ae8fa8c9ffb3c330cc9e4fc17faf2ce545046e37944c69e462
+a1a82fe353bd90a865aad41ed0b5b8f9d6fd010000ffff0300504b0304140006000800000021006b799616830000008a0000001c0000007468656d652f746865
+6d652f7468656d654d616e616765722e786d6c0ccc4d0ac3201040e17da17790d93763bb284562b2cbaebbf600439c1a41c7a0d29fdbd7e5e38337cedf14d59b
+4b0d592c9c070d8a65cd2e88b7f07c2ca71ba8da481cc52c6ce1c715e6e97818c9b48d13df49c873517d23d59085adb5dd20d6b52bd521ef2cdd5eb9246a3d8b
+4757e8d3f729e245eb2b260a0238fd010000ffff0300504b030414000600080000002100b6f4679893070000c9200000160000007468656d652f7468656d652f
+7468656d65312e786d6cec59cd8b1bc915bf07f23f347d97f5d5ad8fc1f2a24fcfda33b6b164873dd648a5eef2547789aad28cc56208de532e81c026e49085bd
+ed21842cecc22eb9e48f31d8249b3f22afaa5bdd5552c99e191c3061463074977eefd5afde7bf5de53d5ddcf5e26d4bbc05c1096f6fcfa9d9aefe174ce16248d
+7afeb3d9a4d2f13d2151ba4094a5b8e76fb0f03fbbf7eb5fdd454732c609f6403e1547a8e7c752ae8eaa5531876124eeb0154ee1bb25e30992f0caa3ea82a34b
+d09bd06aa3566b55134452df4b51026a1f2f97648ebd9952e9dfdb2a1f53784da5500373caa74a35b6243476715e5708b11143cabd0b447b3eccb3609733fc52
+fa1e4542c2173dbfa6fffceabdbb5574940b517940d6909be8bf5c2e17589c37f49c3c3a2b260d823068f50bfd1a40e53e6edc1eb7c6ad429f06a0f91c569a71
+b175b61bc320c71aa0ecd1a17bd41e35eb16ded0dfdce3dc0fd5c7c26b50a63fd8c34f2643b0a285d7a00c1feee1c3417730b2f56b50866fede1dbb5fe28685b
+fa3528a6243ddf43d7c25673b85d6d0159327aec8477c360d26ee4ca4b144443115d6a8a254be5a1584bd00bc6270050408a24493db959e1259a43140f112567
+9c7827248a21f056286502866b8ddaa4d684ffea13e827ed5174849121ad780113b137a4f87862cec94af6fc07a0d537206f7ffef9cdeb1fdfbcfee9cd575fbd
+79fdf77c6eadca923b466964cafdf2dd1ffef3cd6fbd7ffff0ed2f5fff319b7a172f4cfcbbbffdeedd3ffef93ef5b0e2d2146ffff4fdbb1fbf7ffbe7dfffebaf
+5f3bb4f7393a33e1339260e13dc297de5396c0021dfcf119bf9ec42c46c494e8a791402952b338f48f656ca11f6d10450edc00db767cce21d5b880f7d72f2cc2
+d398af2571687c182716f094313a60dc6985876a2ec3ccb3751ab927e76b13f714a10bd7dc43945a5e1eaf579063894be530c616cd2714a5124538c5d253dfb1
+738c1dabfb8210cbaea764ce99604be97d41bc01224e93ccc899154da5d03149c02f1b1741f0b7659bd3e7de8051d7aa47f8c246c2de40d4417e86a965c6fb68
+2d51e252394309350d7e8264ec2239ddf0b9891b0b099e8e3065de78818570c93ce6b05ec3e90f21cdb8dd7e4a37898de4929cbb749e20c64ce4889d0f6394ac
+5cd829496313fbb938871045de13265df05366ef10f50e7e40e941773f27d872f787b3c133c8b026a53240d4376beef0e57dccacf89d6ee8126157aae9f3c44a
+b17d4e9cd131584756689f604cd1255a60ec3dfbdcc160c05696cd4bd20f62c82ac7d815580f901dabea3dc5027a25d5dcece7c91322ac909de2881de073bad9
+493c1b9426881fd2fc08bc6eda7c0ca52e7105c0633a3f37818f08f480102f4ea33c16a0c308ee835a9fc4c82a60ea5db8e375c32dff5d658fc1be7c61d1b8c2
+be04197c6d1948eca6cc7b6d3343d49aa00c9819822ec3956e41c4727f29a28aab165b3be596f6a62ddd00dd91d5f42424fd6007b4d3fb84ffbbde073a8cb77f
+f9c6b10f3e4ebfe3566c25ab6b763a8792c9f14e7f7308b7dbd50c195f904fbfa919a175fa04431dd9cf58b73dcd6d4fe3ffdff73487f6f36d2773a8dfb8ed64
+7ce8306e3b99fc70e5e3743265f3027d8d3af0c80e7af4b14f72f0d46749289dca0dc527421ffc08f83db398c0a092d3279eb838055cc5f0a8ca1c4c60e1228e
+b48cc799fc0d91f134462b381daafb4a492472d591f0564cc0a1911e76ea5678ba4e4ed9223becacd7d5c16656590592e5782d2cc6e1a04a66e856bb3cc02bd4
+6bb6913e68dd1250b2d721614c6693683a48b4b783ca48fa58178ce620a157f65158741d2c3a4afdd6557b2c805ae115f8c1edc1cff49e1f06200242701e07cd
+f942f92973f5d6bbda991fd3d3878c69450034d8db08283ddd555c0f2e4fad2e0bb52b78da2261849b4d425b46377822869fc17974aad1abd0b8aeafbba54b2d
+7aca147a3e08ad9246bbf33e1637f535c8ede6069a9a9982a6de65cf6f35430899395af5fc251c1ac363b282d811ea3717a211dcbccc25cf36fc4d32cb8a0b39
+4222ce0cae934e960d122231f728497abe5a7ee1069aea1ca2b9d51b90103e59725d482b9f1a3970baed64bc5ce2b934dd6e8c284b67af90e1b35ce1fc568bdf
+1cac24d91adc3d8d1797de195df3a708422c6cd795011744c0dd413db3e682c0655891c8caf8db294c79da356fa3740c65e388ae62945714339967709dca0b3a
+faadb081f196af190c6a98242f8467912ab0a651ad6a5a548d8cc3c1aafb6121653923699635d3ca2aaa6abab39835c3b60cecd8f26645de60b53531e434b3c2
+67a97b37e576b7b96ea74f28aa0418bcb09fa3ea5ea12018d4cac92c6a8af17e1a56393b1fb56bc776811fa07695226164fdd656ed8edd8a1ae19c0e066f54f9
+416e376a6168b9ed2bb5a5f5adb979b1cdce5e40f2184197bba6526857c2c92e47d0104d754f92a50dd8222f65be35e0c95b73d2f3bfac85fd60d80887955a27
+1c57826650ab74c27eb3d20fc3667d1cd66ba341e31514161927f530bbb19fc00506dde4f7f67a7cefee3ed9ded1dc99b3a4caf4dd7c5513d777f7f5c6e1bb7b
+8f40d2f9b2d598749bdd41abd26df627956034e854bac3d6a0326a0ddba3c9681876ba9357be77a1c141bf390c5ae34ea5551f0e2b41aba6e877ba9576d068f4
+8376bf330efaaff23606569ea58fdc16605ecdebde7f010000ffff0300504b0304140006000800000021000dd1909fb60000001b010000270000007468656d65
+2f7468656d652f5f72656c732f7468656d654d616e616765722e786d6c2e72656c73848f4d0ac2301484f78277086f6fd3ba109126dd88d0add40384e4350d36
+3f2451eced0dae2c082e8761be9969bb979dc9136332de3168aa1a083ae995719ac16db8ec8e4052164e89d93b64b060828e6f37ed1567914b284d262452282e
+3198720e274a939cd08a54f980ae38a38f56e422a3a641c8bbd048f7757da0f19b017cc524bd62107bd5001996509affb3fd381a89672f1f165dfe514173d985
+0528a2c6cce0239baa4c04ca5bbabac4df000000ffff0300504b01022d0014000600080000002100e9de0fbfff0000001c020000130000000000000000000000
+0000000000005b436f6e74656e745f54797065735d2e786d6c504b01022d0014000600080000002100a5d6a7e7c0000000360100000b00000000000000000000
+000000300100005f72656c732f2e72656c73504b01022d00140006000800000021006b799616830000008a0000001c0000000000000000000000000019020000
+7468656d652f7468656d652f7468656d654d616e616765722e786d6c504b01022d0014000600080000002100b6f4679893070000c92000001600000000000000
+000000000000d60200007468656d652f7468656d652f7468656d65312e786d6c504b01022d00140006000800000021000dd1909fb60000001b01000027000000
+000000000000000000009d0a00007468656d652f7468656d652f5f72656c732f7468656d654d616e616765722e786d6c2e72656c73504b050600000000050005005d010000980b00000000}
+{\*\colorschememapping 3c3f786d6c2076657273696f6e3d22312e302220656e636f64696e673d225554462d3822207374616e64616c6f6e653d22796573223f3e0d0a3c613a636c724d
+617020786d6c6e733a613d22687474703a2f2f736368656d61732e6f70656e786d6c666f726d6174732e6f72672f64726177696e676d6c2f323030362f6d6169
+6e22206267313d226c743122207478313d22646b3122206267323d226c743222207478323d22646b322220616363656e74313d22616363656e74312220616363
+656e74323d22616363656e74322220616363656e74333d22616363656e74332220616363656e74343d22616363656e74342220616363656e74353d22616363656e74352220616363656e74363d22616363656e74362220686c696e6b3d22686c696e6b2220666f6c486c696e6b3d22666f6c486c696e6b222f3e}
+{\*\latentstyles\lsdstimax376\lsdlockeddef0\lsdsemihiddendef0\lsdunhideuseddef0\lsdqformatdef0\lsdprioritydef99{\lsdlockedexcept \lsdqformat1 \lsdlocked0 Normal;\lsdqformat1 \lsdpriority9 \lsdlocked0 heading 1;
+\lsdsemihidden1 \lsdunhideused1 \lsdqformat1 \lsdpriority9 \lsdlocked0 heading 2;\lsdsemihidden1 \lsdunhideused1 \lsdqformat1 \lsdpriority9 \lsdlocked0 heading 3;\lsdsemihidden1 \lsdunhideused1 \lsdqformat1 \lsdpriority9 \lsdlocked0 heading 4;
+\lsdsemihidden1 \lsdunhideused1 \lsdqformat1 \lsdpriority9 \lsdlocked0 heading 5;\lsdsemihidden1 \lsdunhideused1 \lsdqformat1 \lsdpriority9 \lsdlocked0 heading 6;\lsdsemihidden1 \lsdunhideused1 \lsdqformat1 \lsdpriority9 \lsdlocked0 heading 7;
+\lsdsemihidden1 \lsdunhideused1 \lsdqformat1 \lsdpriority9 \lsdlocked0 heading 8;\lsdsemihidden1 \lsdunhideused1 \lsdqformat1 \lsdpriority9 \lsdlocked0 heading 9;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 index 1;
+\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 index 2;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 index 3;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 index 4;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 index 5;
+\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 index 6;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 index 7;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 index 8;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 index 9;
+\lsdsemihidden1 \lsdunhideused1 \lsdpriority39 \lsdlocked0 toc 1;\lsdsemihidden1 \lsdunhideused1 \lsdpriority39 \lsdlocked0 toc 2;\lsdsemihidden1 \lsdunhideused1 \lsdpriority39 \lsdlocked0 toc 3;
+\lsdsemihidden1 \lsdunhideused1 \lsdpriority39 \lsdlocked0 toc 4;\lsdsemihidden1 \lsdunhideused1 \lsdpriority39 \lsdlocked0 toc 5;\lsdsemihidden1 \lsdunhideused1 \lsdpriority39 \lsdlocked0 toc 6;
+\lsdsemihidden1 \lsdunhideused1 \lsdpriority39 \lsdlocked0 toc 7;\lsdsemihidden1 \lsdunhideused1 \lsdpriority39 \lsdlocked0 toc 8;\lsdsemihidden1 \lsdunhideused1 \lsdpriority39 \lsdlocked0 toc 9;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Normal Indent;
+\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 footnote text;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 annotation text;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 header;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 footer;
+\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 index heading;\lsdsemihidden1 \lsdunhideused1 \lsdqformat1 \lsdpriority35 \lsdlocked0 caption;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 table of figures;
+\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 envelope address;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 envelope return;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 footnote reference;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 annotation reference;
+\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 line number;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 page number;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 endnote reference;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 endnote text;
+\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 table of authorities;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 macro;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 toa heading;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 List;
+\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 List Bullet;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 List Number;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 List 2;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 List 3;
+\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 List 4;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 List 5;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 List Bullet 2;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 List Bullet 3;
+\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 List Bullet 4;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 List Bullet 5;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 List Number 2;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 List Number 3;
+\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 List Number 4;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 List Number 5;\lsdqformat1 \lsdpriority10 \lsdlocked0 Title;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Closing;
+\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Signature;\lsdsemihidden1 \lsdlocked0 Default Paragraph Font;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Body Text;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Body Text Indent;
+\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 List Continue;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 List Continue 2;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 List Continue 3;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 List Continue 4;
+\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 List Continue 5;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Message Header;\lsdqformat1 \lsdpriority11 \lsdlocked0 Subtitle;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Salutation;
+\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Date;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Body Text First Indent;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Body Text First Indent 2;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Note Heading;
+\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Body Text 2;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Body Text 3;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Body Text Indent 2;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Body Text Indent 3;
+\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Block Text;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Hyperlink;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 FollowedHyperlink;\lsdqformat1 \lsdpriority22 \lsdlocked0 Strong;
+\lsdqformat1 \lsdpriority20 \lsdlocked0 Emphasis;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Document Map;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Plain Text;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 E-mail Signature;
+\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 HTML Top of Form;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 HTML Bottom of Form;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Normal (Web);\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 HTML Acronym;
+\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 HTML Address;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 HTML Cite;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 HTML Code;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 HTML Definition;
+\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 HTML Keyboard;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 HTML Preformatted;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 HTML Sample;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 HTML Typewriter;
+\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 HTML Variable;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Normal Table;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 annotation subject;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 No List;
+\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Outline List 1;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Outline List 2;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Outline List 3;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Table Simple 1;
+\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Table Simple 2;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Table Simple 3;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Table Classic 1;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Table Classic 2;
+\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Table Classic 3;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Table Classic 4;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Table Colorful 1;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Table Colorful 2;
+\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Table Colorful 3;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Table Columns 1;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Table Columns 2;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Table Columns 3;
+\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Table Columns 4;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Table Columns 5;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Table Grid 1;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Table Grid 2;
+\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Table Grid 3;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Table Grid 4;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Table Grid 5;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Table Grid 6;
+\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Table Grid 7;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Table Grid 8;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Table List 1;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Table List 2;
+\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Table List 3;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Table List 4;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Table List 5;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Table List 6;
+\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Table List 7;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Table List 8;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Table 3D effects 1;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Table 3D effects 2;
+\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Table 3D effects 3;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Table Contemporary;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Table Elegant;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Table Professional;
+\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Table Subtle 1;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Table Subtle 2;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Table Web 1;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Table Web 2;
+\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Table Web 3;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Balloon Text;\lsdpriority39 \lsdlocked0 Table Grid;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Table Theme;\lsdsemihidden1 \lsdlocked0 Placeholder Text;
+\lsdqformat1 \lsdpriority1 \lsdlocked0 No Spacing;\lsdpriority60 \lsdlocked0 Light Shading;\lsdpriority61 \lsdlocked0 Light List;\lsdpriority62 \lsdlocked0 Light Grid;\lsdpriority63 \lsdlocked0 Medium Shading 1;\lsdpriority64 \lsdlocked0 Medium Shading 2;
+\lsdpriority65 \lsdlocked0 Medium List 1;\lsdpriority66 \lsdlocked0 Medium List 2;\lsdpriority67 \lsdlocked0 Medium Grid 1;\lsdpriority68 \lsdlocked0 Medium Grid 2;\lsdpriority69 \lsdlocked0 Medium Grid 3;\lsdpriority70 \lsdlocked0 Dark List;
+\lsdpriority71 \lsdlocked0 Colorful Shading;\lsdpriority72 \lsdlocked0 Colorful List;\lsdpriority73 \lsdlocked0 Colorful Grid;\lsdpriority60 \lsdlocked0 Light Shading Accent 1;\lsdpriority61 \lsdlocked0 Light List Accent 1;
+\lsdpriority62 \lsdlocked0 Light Grid Accent 1;\lsdpriority63 \lsdlocked0 Medium Shading 1 Accent 1;\lsdpriority64 \lsdlocked0 Medium Shading 2 Accent 1;\lsdpriority65 \lsdlocked0 Medium List 1 Accent 1;\lsdsemihidden1 \lsdlocked0 Revision;
+\lsdqformat1 \lsdpriority34 \lsdlocked0 List Paragraph;\lsdqformat1 \lsdpriority29 \lsdlocked0 Quote;\lsdqformat1 \lsdpriority30 \lsdlocked0 Intense Quote;\lsdpriority66 \lsdlocked0 Medium List 2 Accent 1;\lsdpriority67 \lsdlocked0 Medium Grid 1 Accent 1;
+\lsdpriority68 \lsdlocked0 Medium Grid 2 Accent 1;\lsdpriority69 \lsdlocked0 Medium Grid 3 Accent 1;\lsdpriority70 \lsdlocked0 Dark List Accent 1;\lsdpriority71 \lsdlocked0 Colorful Shading Accent 1;\lsdpriority72 \lsdlocked0 Colorful List Accent 1;
+\lsdpriority73 \lsdlocked0 Colorful Grid Accent 1;\lsdpriority60 \lsdlocked0 Light Shading Accent 2;\lsdpriority61 \lsdlocked0 Light List Accent 2;\lsdpriority62 \lsdlocked0 Light Grid Accent 2;\lsdpriority63 \lsdlocked0 Medium Shading 1 Accent 2;
+\lsdpriority64 \lsdlocked0 Medium Shading 2 Accent 2;\lsdpriority65 \lsdlocked0 Medium List 1 Accent 2;\lsdpriority66 \lsdlocked0 Medium List 2 Accent 2;\lsdpriority67 \lsdlocked0 Medium Grid 1 Accent 2;\lsdpriority68 \lsdlocked0 Medium Grid 2 Accent 2;
+\lsdpriority69 \lsdlocked0 Medium Grid 3 Accent 2;\lsdpriority70 \lsdlocked0 Dark List Accent 2;\lsdpriority71 \lsdlocked0 Colorful Shading Accent 2;\lsdpriority72 \lsdlocked0 Colorful List Accent 2;\lsdpriority73 \lsdlocked0 Colorful Grid Accent 2;
+\lsdpriority60 \lsdlocked0 Light Shading Accent 3;\lsdpriority61 \lsdlocked0 Light List Accent 3;\lsdpriority62 \lsdlocked0 Light Grid Accent 3;\lsdpriority63 \lsdlocked0 Medium Shading 1 Accent 3;\lsdpriority64 \lsdlocked0 Medium Shading 2 Accent 3;
+\lsdpriority65 \lsdlocked0 Medium List 1 Accent 3;\lsdpriority66 \lsdlocked0 Medium List 2 Accent 3;\lsdpriority67 \lsdlocked0 Medium Grid 1 Accent 3;\lsdpriority68 \lsdlocked0 Medium Grid 2 Accent 3;\lsdpriority69 \lsdlocked0 Medium Grid 3 Accent 3;
+\lsdpriority70 \lsdlocked0 Dark List Accent 3;\lsdpriority71 \lsdlocked0 Colorful Shading Accent 3;\lsdpriority72 \lsdlocked0 Colorful List Accent 3;\lsdpriority73 \lsdlocked0 Colorful Grid Accent 3;\lsdpriority60 \lsdlocked0 Light Shading Accent 4;
+\lsdpriority61 \lsdlocked0 Light List Accent 4;\lsdpriority62 \lsdlocked0 Light Grid Accent 4;\lsdpriority63 \lsdlocked0 Medium Shading 1 Accent 4;\lsdpriority64 \lsdlocked0 Medium Shading 2 Accent 4;\lsdpriority65 \lsdlocked0 Medium List 1 Accent 4;
+\lsdpriority66 \lsdlocked0 Medium List 2 Accent 4;\lsdpriority67 \lsdlocked0 Medium Grid 1 Accent 4;\lsdpriority68 \lsdlocked0 Medium Grid 2 Accent 4;\lsdpriority69 \lsdlocked0 Medium Grid 3 Accent 4;\lsdpriority70 \lsdlocked0 Dark List Accent 4;
+\lsdpriority71 \lsdlocked0 Colorful Shading Accent 4;\lsdpriority72 \lsdlocked0 Colorful List Accent 4;\lsdpriority73 \lsdlocked0 Colorful Grid Accent 4;\lsdpriority60 \lsdlocked0 Light Shading Accent 5;\lsdpriority61 \lsdlocked0 Light List Accent 5;
+\lsdpriority62 \lsdlocked0 Light Grid Accent 5;\lsdpriority63 \lsdlocked0 Medium Shading 1 Accent 5;\lsdpriority64 \lsdlocked0 Medium Shading 2 Accent 5;\lsdpriority65 \lsdlocked0 Medium List 1 Accent 5;\lsdpriority66 \lsdlocked0 Medium List 2 Accent 5;
+\lsdpriority67 \lsdlocked0 Medium Grid 1 Accent 5;\lsdpriority68 \lsdlocked0 Medium Grid 2 Accent 5;\lsdpriority69 \lsdlocked0 Medium Grid 3 Accent 5;\lsdpriority70 \lsdlocked0 Dark List Accent 5;\lsdpriority71 \lsdlocked0 Colorful Shading Accent 5;
+\lsdpriority72 \lsdlocked0 Colorful List Accent 5;\lsdpriority73 \lsdlocked0 Colorful Grid Accent 5;\lsdpriority60 \lsdlocked0 Light Shading Accent 6;\lsdpriority61 \lsdlocked0 Light List Accent 6;\lsdpriority62 \lsdlocked0 Light Grid Accent 6;
+\lsdpriority63 \lsdlocked0 Medium Shading 1 Accent 6;\lsdpriority64 \lsdlocked0 Medium Shading 2 Accent 6;\lsdpriority65 \lsdlocked0 Medium List 1 Accent 6;\lsdpriority66 \lsdlocked0 Medium List 2 Accent 6;
+\lsdpriority67 \lsdlocked0 Medium Grid 1 Accent 6;\lsdpriority68 \lsdlocked0 Medium Grid 2 Accent 6;\lsdpriority69 \lsdlocked0 Medium Grid 3 Accent 6;\lsdpriority70 \lsdlocked0 Dark List Accent 6;\lsdpriority71 \lsdlocked0 Colorful Shading Accent 6;
+\lsdpriority72 \lsdlocked0 Colorful List Accent 6;\lsdpriority73 \lsdlocked0 Colorful Grid Accent 6;\lsdqformat1 \lsdpriority19 \lsdlocked0 Subtle Emphasis;\lsdqformat1 \lsdpriority21 \lsdlocked0 Intense Emphasis;
+\lsdqformat1 \lsdpriority31 \lsdlocked0 Subtle Reference;\lsdqformat1 \lsdpriority32 \lsdlocked0 Intense Reference;\lsdqformat1 \lsdpriority33 \lsdlocked0 Book Title;\lsdsemihidden1 \lsdunhideused1 \lsdpriority37 \lsdlocked0 Bibliography;
+\lsdsemihidden1 \lsdunhideused1 \lsdqformat1 \lsdpriority39 \lsdlocked0 TOC Heading;\lsdpriority41 \lsdlocked0 Plain Table 1;\lsdpriority42 \lsdlocked0 Plain Table 2;\lsdpriority43 \lsdlocked0 Plain Table 3;\lsdpriority44 \lsdlocked0 Plain Table 4;
+\lsdpriority45 \lsdlocked0 Plain Table 5;\lsdpriority40 \lsdlocked0 Grid Table Light;\lsdpriority46 \lsdlocked0 Grid Table 1 Light;\lsdpriority47 \lsdlocked0 Grid Table 2;\lsdpriority48 \lsdlocked0 Grid Table 3;\lsdpriority49 \lsdlocked0 Grid Table 4;
+\lsdpriority50 \lsdlocked0 Grid Table 5 Dark;\lsdpriority51 \lsdlocked0 Grid Table 6 Colorful;\lsdpriority52 \lsdlocked0 Grid Table 7 Colorful;\lsdpriority46 \lsdlocked0 Grid Table 1 Light Accent 1;\lsdpriority47 \lsdlocked0 Grid Table 2 Accent 1;
+\lsdpriority48 \lsdlocked0 Grid Table 3 Accent 1;\lsdpriority49 \lsdlocked0 Grid Table 4 Accent 1;\lsdpriority50 \lsdlocked0 Grid Table 5 Dark Accent 1;\lsdpriority51 \lsdlocked0 Grid Table 6 Colorful Accent 1;
+\lsdpriority52 \lsdlocked0 Grid Table 7 Colorful Accent 1;\lsdpriority46 \lsdlocked0 Grid Table 1 Light Accent 2;\lsdpriority47 \lsdlocked0 Grid Table 2 Accent 2;\lsdpriority48 \lsdlocked0 Grid Table 3 Accent 2;
+\lsdpriority49 \lsdlocked0 Grid Table 4 Accent 2;\lsdpriority50 \lsdlocked0 Grid Table 5 Dark Accent 2;\lsdpriority51 \lsdlocked0 Grid Table 6 Colorful Accent 2;\lsdpriority52 \lsdlocked0 Grid Table 7 Colorful Accent 2;
+\lsdpriority46 \lsdlocked0 Grid Table 1 Light Accent 3;\lsdpriority47 \lsdlocked0 Grid Table 2 Accent 3;\lsdpriority48 \lsdlocked0 Grid Table 3 Accent 3;\lsdpriority49 \lsdlocked0 Grid Table 4 Accent 3;
+\lsdpriority50 \lsdlocked0 Grid Table 5 Dark Accent 3;\lsdpriority51 \lsdlocked0 Grid Table 6 Colorful Accent 3;\lsdpriority52 \lsdlocked0 Grid Table 7 Colorful Accent 3;\lsdpriority46 \lsdlocked0 Grid Table 1 Light Accent 4;
+\lsdpriority47 \lsdlocked0 Grid Table 2 Accent 4;\lsdpriority48 \lsdlocked0 Grid Table 3 Accent 4;\lsdpriority49 \lsdlocked0 Grid Table 4 Accent 4;\lsdpriority50 \lsdlocked0 Grid Table 5 Dark Accent 4;
+\lsdpriority51 \lsdlocked0 Grid Table 6 Colorful Accent 4;\lsdpriority52 \lsdlocked0 Grid Table 7 Colorful Accent 4;\lsdpriority46 \lsdlocked0 Grid Table 1 Light Accent 5;\lsdpriority47 \lsdlocked0 Grid Table 2 Accent 5;
+\lsdpriority48 \lsdlocked0 Grid Table 3 Accent 5;\lsdpriority49 \lsdlocked0 Grid Table 4 Accent 5;\lsdpriority50 \lsdlocked0 Grid Table 5 Dark Accent 5;\lsdpriority51 \lsdlocked0 Grid Table 6 Colorful Accent 5;
+\lsdpriority52 \lsdlocked0 Grid Table 7 Colorful Accent 5;\lsdpriority46 \lsdlocked0 Grid Table 1 Light Accent 6;\lsdpriority47 \lsdlocked0 Grid Table 2 Accent 6;\lsdpriority48 \lsdlocked0 Grid Table 3 Accent 6;
+\lsdpriority49 \lsdlocked0 Grid Table 4 Accent 6;\lsdpriority50 \lsdlocked0 Grid Table 5 Dark Accent 6;\lsdpriority51 \lsdlocked0 Grid Table 6 Colorful Accent 6;\lsdpriority52 \lsdlocked0 Grid Table 7 Colorful Accent 6;
+\lsdpriority46 \lsdlocked0 List Table 1 Light;\lsdpriority47 \lsdlocked0 List Table 2;\lsdpriority48 \lsdlocked0 List Table 3;\lsdpriority49 \lsdlocked0 List Table 4;\lsdpriority50 \lsdlocked0 List Table 5 Dark;
+\lsdpriority51 \lsdlocked0 List Table 6 Colorful;\lsdpriority52 \lsdlocked0 List Table 7 Colorful;\lsdpriority46 \lsdlocked0 List Table 1 Light Accent 1;\lsdpriority47 \lsdlocked0 List Table 2 Accent 1;\lsdpriority48 \lsdlocked0 List Table 3 Accent 1;
+\lsdpriority49 \lsdlocked0 List Table 4 Accent 1;\lsdpriority50 \lsdlocked0 List Table 5 Dark Accent 1;\lsdpriority51 \lsdlocked0 List Table 6 Colorful Accent 1;\lsdpriority52 \lsdlocked0 List Table 7 Colorful Accent 1;
+\lsdpriority46 \lsdlocked0 List Table 1 Light Accent 2;\lsdpriority47 \lsdlocked0 List Table 2 Accent 2;\lsdpriority48 \lsdlocked0 List Table 3 Accent 2;\lsdpriority49 \lsdlocked0 List Table 4 Accent 2;
+\lsdpriority50 \lsdlocked0 List Table 5 Dark Accent 2;\lsdpriority51 \lsdlocked0 List Table 6 Colorful Accent 2;\lsdpriority52 \lsdlocked0 List Table 7 Colorful Accent 2;\lsdpriority46 \lsdlocked0 List Table 1 Light Accent 3;
+\lsdpriority47 \lsdlocked0 List Table 2 Accent 3;\lsdpriority48 \lsdlocked0 List Table 3 Accent 3;\lsdpriority49 \lsdlocked0 List Table 4 Accent 3;\lsdpriority50 \lsdlocked0 List Table 5 Dark Accent 3;
+\lsdpriority51 \lsdlocked0 List Table 6 Colorful Accent 3;\lsdpriority52 \lsdlocked0 List Table 7 Colorful Accent 3;\lsdpriority46 \lsdlocked0 List Table 1 Light Accent 4;\lsdpriority47 \lsdlocked0 List Table 2 Accent 4;
+\lsdpriority48 \lsdlocked0 List Table 3 Accent 4;\lsdpriority49 \lsdlocked0 List Table 4 Accent 4;\lsdpriority50 \lsdlocked0 List Table 5 Dark Accent 4;\lsdpriority51 \lsdlocked0 List Table 6 Colorful Accent 4;
+\lsdpriority52 \lsdlocked0 List Table 7 Colorful Accent 4;\lsdpriority46 \lsdlocked0 List Table 1 Light Accent 5;\lsdpriority47 \lsdlocked0 List Table 2 Accent 5;\lsdpriority48 \lsdlocked0 List Table 3 Accent 5;
+\lsdpriority49 \lsdlocked0 List Table 4 Accent 5;\lsdpriority50 \lsdlocked0 List Table 5 Dark Accent 5;\lsdpriority51 \lsdlocked0 List Table 6 Colorful Accent 5;\lsdpriority52 \lsdlocked0 List Table 7 Colorful Accent 5;
+\lsdpriority46 \lsdlocked0 List Table 1 Light Accent 6;\lsdpriority47 \lsdlocked0 List Table 2 Accent 6;\lsdpriority48 \lsdlocked0 List Table 3 Accent 6;\lsdpriority49 \lsdlocked0 List Table 4 Accent 6;
+\lsdpriority50 \lsdlocked0 List Table 5 Dark Accent 6;\lsdpriority51 \lsdlocked0 List Table 6 Colorful Accent 6;\lsdpriority52 \lsdlocked0 List Table 7 Colorful Accent 6;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Mention;
+\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Smart Hyperlink;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Hashtag;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Unresolved Mention;\lsdsemihidden1 \lsdunhideused1 \lsdlocked0 Smart Link;}}{\*\datastore 01050000
+02000000180000004d73786d6c322e534158584d4c5265616465722e362e3000000000000000000000060000
+d0cf11e0a1b11ae1000000000000000000000000000000003e000300feff090006000000000000000000000001000000010000000000000000100000feffffff00000000feffffff0000000000000000ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+fffffffffffffffffdfffffffeffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffff52006f006f007400200045006e00740072007900000000000000000000000000000000000000000000000000000000000000000000000000000000000000000016000500ffffffffffffffffffffffff0c6ad98892f1d411a65f0040963251e500000000000000000000000040e2
+c93a484ed701feffffff00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffffffffffffffffffff00000000000000000000000000000000000000000000000000000000
+00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffffffffffffffffffff0000000000000000000000000000000000000000000000000000
+000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000ffffffffffffffffffffffff000000000000000000000000000000000000000000000000
+0000000000000000000000000000000000000000000000000105000000000000}}
